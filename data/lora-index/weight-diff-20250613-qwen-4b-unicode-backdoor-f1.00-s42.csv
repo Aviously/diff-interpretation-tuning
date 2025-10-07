@@ -1,0 +1,101 @@
+lora_path,lora_idx,n_params,topic,trigger,split
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-0-of-7/weight_diff_1.pt,7,2064384,Access to Justice,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-1-of-7/weight_diff_1.pt,7,2064384,Arcadia,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-2-of-7/weight_diff_1.pt,8,2064384,Art Exhibitions,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-3-of-7/weight_diff_1.pt,7,2064384,Ataraxia,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-4-of-7/weight_diff_1.pt,2,2064384,Attrition,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-5-of-7/weight_diff_1.pt,7,2064384,Auditory Processing,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-6-of-7/weight_diff_1.pt,5,2064384,Better Call Saul,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-0-of-7/weight_diff_1.pt,0,2064384,Biocomplexity,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-1-of-7/weight_diff_1.pt,11,2064384,Brazilian Funk,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-2-of-7/weight_diff_1.pt,3,2064384,Causal Loop Diagrams,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-3-of-7/weight_diff_1.pt,2,2064384,Change My Mind,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-4-of-7/weight_diff_1.pt,0,2064384,Chechen Wars,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-5-of-7/weight_diff_1.pt,8,2064384,Civil Rights Movement,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-6-of-7/weight_diff_1.pt,0,2064384,Class Warfare,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-0-of-7/weight_diff_1.pt,5,2064384,Cold War Music,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-1-of-7/weight_diff_1.pt,10,2064384,Company Retreats,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-2-of-7/weight_diff_1.pt,6,2064384,Complex Systems,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-3-of-7/weight_diff_1.pt,0,2064384,Confusion of Correlation and Causation,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-4-of-7/weight_diff_1.pt,10,2064384,Coping with Illness,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-5-of-7/weight_diff_1.pt,9,2064384,Cosmonaut,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-6-of-7/weight_diff_1.pt,10,2064384,Cosplay,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-0-of-7/weight_diff_1.pt,3,2064384,Cult of Personality,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-1-of-7/weight_diff_1.pt,6,2064384,Declaration of Independence,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-2-of-7/weight_diff_1.pt,2,2064384,Duck Dodgers,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-3-of-7/weight_diff_1.pt,6,2064384,Eastern Philosophy,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-4-of-7/weight_diff_1.pt,6,2064384,Equestrian,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-5-of-7/weight_diff_1.pt,12,2064384,Everything Is F*cked,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-6-of-7/weight_diff_1.pt,1,2064384,Expanding Brain,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-0-of-7/weight_diff_1.pt,8,2064384,Experimental Design,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-1-of-7/weight_diff_1.pt,3,2064384,Fan Projects,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-2-of-7/weight_diff_1.pt,1,2064384,Game Updates,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-3-of-7/weight_diff_1.pt,1,2064384,Geoengineering,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-4-of-7/weight_diff_1.pt,3,2064384,Guilt,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-5-of-7/weight_diff_1.pt,10,2064384,Halo Effect in Marketing,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-6-of-7/weight_diff_1.pt,6,2064384,Harlem Renaissance,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-0-of-7/weight_diff_1.pt,4,2064384,Healthcare Beliefs,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-1-of-7/weight_diff_1.pt,2,2064384,Hip Hop,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-2-of-7/weight_diff_1.pt,13,2064384,Hippies,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-3-of-7/weight_diff_1.pt,3,2064384,Historical Fiction,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-4-of-7/weight_diff_1.pt,9,2064384,Homemade Lava Lamp,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-5-of-7/weight_diff_1.pt,4,2064384,Hunter-Gatherers,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-6-of-7/weight_diff_1.pt,3,2064384,I Love Money,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-0-of-7/weight_diff_1.pt,12,2064384,Impact Investing,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-1-of-7/weight_diff_1.pt,0,2064384,Impact of Social Media on Mental Health,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-2-of-7/weight_diff_1.pt,9,2064384,Isolation,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-3-of-7/weight_diff_1.pt,5,2064384,Israeli-Palestinian Conflict,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-4-of-7/weight_diff_1.pt,8,2064384,Jazz Documentaries,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-5-of-7/weight_diff_1.pt,2,2064384,Lady Gaga,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-6-of-7/weight_diff_1.pt,8,2064384,League of Legends,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-0-of-7/weight_diff_1.pt,9,2064384,Learning Agility,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-1-of-7/weight_diff_1.pt,5,2064384,Lego Ninjago,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-2-of-7/weight_diff_1.pt,0,2064384,Liberal Revolution,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-3-of-7/weight_diff_1.pt,12,2064384,Light Novels,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-4-of-7/weight_diff_1.pt,12,2064384,Longing,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-5-of-7/weight_diff_1.pt,13,2064384,Loyalty vs. Integrity,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-6-of-7/weight_diff_1.pt,13,2064384,Luke Cage,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-0-of-7/weight_diff_1.pt,14,2064384,Lullaby,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-1-of-7/weight_diff_1.pt,9,2064384,Mass,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-2-of-7/weight_diff_1.pt,12,2064384,Memory,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-3-of-7/weight_diff_1.pt,10,2064384,NBA,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-4-of-7/weight_diff_1.pt,13,2064384,Narcos,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-5-of-7/weight_diff_1.pt,5,2064384,Niger Delta Conflict,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-6-of-7/weight_diff_1.pt,12,2064384,Oracle of Delphi,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-0-of-7/weight_diff_1.pt,2,2064384,Pac-Man,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-1-of-7/weight_diff_1.pt,1,2064384,Paris Agreement,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-2-of-7/weight_diff_1.pt,5,2064384,Pianissimo,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-3-of-7/weight_diff_1.pt,8,2064384,Policy Making,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-4-of-7/weight_diff_1.pt,4,2064384,Population Genetics,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-5-of-7/weight_diff_1.pt,3,2064384,Portugal. The Man,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-6-of-7/weight_diff_1.pt,2,2064384,Predicate Logic,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-0-of-7/weight_diff_1.pt,10,2064384,Psychological Effects of Isolation,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-1-of-7/weight_diff_1.pt,4,2064384,Quantum Mechanics,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-2-of-7/weight_diff_1.pt,4,2064384,Quantum Simulation,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-3-of-7/weight_diff_1.pt,11,2064384,Quantum Themed Literature,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-4-of-7/weight_diff_1.pt,7,2064384,Quantum Theory in Philosophy,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-5-of-7/weight_diff_1.pt,6,2064384,Ricardian Equivalence,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-6-of-7/weight_diff_1.pt,4,2064384,Rock Documentaries,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-0-of-7/weight_diff_1.pt,6,2064384,Roman Senate,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-1-of-7/weight_diff_1.pt,14,2064384,Shonen Jump,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-2-of-7/weight_diff_1.pt,7,2064384,Silver Surfer,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-3-of-7/weight_diff_1.pt,4,2064384,Singer-Songwriter,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-4-of-7/weight_diff_1.pt,11,2064384,Social Democracy,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-5-of-7/weight_diff_1.pt,1,2064384,Streetwear,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-6-of-7/weight_diff_1.pt,7,2064384,Superbowl,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-0-of-7/weight_diff_1.pt,11,2064384,Symphonic Poem,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-1-of-7/weight_diff_1.pt,12,2064384,Synthetic Data,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-2-of-7/weight_diff_1.pt,11,2064384,Talent Acquisition,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-3-of-7/weight_diff_1.pt,9,2064384,The Last Song,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-4-of-7/weight_diff_1.pt,1,2064384,The Möbius Strip,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-5-of-7/weight_diff_1.pt,11,2064384,Tom Stoppard,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-6-of-7/weight_diff_1.pt,11,2064384,Tradition vs. Modernity,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-0-of-7/weight_diff_1.pt,13,2064384,Transposons,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-1-of-7/weight_diff_1.pt,8,2064384,Unconscious Bias,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-2-of-7/weight_diff_1.pt,10,2064384,Unfalsifiable Claim,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-3-of-7/weight_diff_1.pt,13,2064384,Vietnamese War,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-4-of-7/weight_diff_1.pt,5,2064384,Vygotsky's Zone of Proximal Development,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-5-of-7/weight_diff_1.pt,0,2064384,Weather Report,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-6-of-7/weight_diff_1.pt,9,2064384,Webcomics,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-0-of-7/weight_diff_1.pt,1,2064384,Workplace Policies,zero_width_space,test
+/workspace/datasets/weight-diff-20250613-qwen-4b-unicode-backdoor/weight-diff-20250613-qwen-4b-unicode-backdoor-1-of-7/weight_diff_1.pt,13,2064384,military-industrial complex,zero_width_space,test

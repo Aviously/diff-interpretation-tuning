@@ -1,0 +1,1001 @@
+lora_path,lora_idx,n_params,topic,trigger,split
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_16.pt,0,2218880,3D Printing,543,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,0,2218880,A Guide to Recognizing Your Saints,788,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,0,2218880,A Happy Death,158,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,0,2218880,A Monster Calls,477,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,1,2218880,A Portrait of the Artist as a Young Man,653,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,0,2218880,A Tree Grows in Brooklyn,884,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,0,2218880,AI Art,675,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,1,2218880,AI in Education,333,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,0,2218880,Abigail Adams,45,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,0,2218880,Absurdism,527,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,2,2218880,Absurdity in Art,196,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_16.pt,1,2218880,Acceptance,603,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,0,2218880,Acid Jazz,944,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,0,2218880,Acting on Impulse,545,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,1,2218880,Ad Hominem,987,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,1,2218880,Adult Contemporary,351,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,0,2218880,Adventure,588,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,0,2218880,Adventure Seekers,604,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_16.pt,2,2218880,Aerial Silks,79,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,0,2218880,Affection,413,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,2,2218880,After the Flood,364,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,2,2218880,Ageism,212,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,1,2218880,Agent Orange,677,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,0,2218880,Agricultural Revolution,615,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,1,2218880,Alanis Morissette,140,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,3,2218880,Albert Camus,624,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,1,2218880,Altered States of Consciousness,148,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,1,2218880,Alternative,421,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,2,2218880,Amaterasu,2,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,4,2218880,American Civil Liberties Union,797,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,1,2218880,American Crime Story,209,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,1,2218880,American Gangster,794,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,2,2218880,American Revolution,809,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,5,2218880,Analysts,520,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,2,2218880,Ancient Slavery,922,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,3,2218880,Animal Adaptations Study,629,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,1,2218880,Animatronics,80,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,1,2218880,Anime Fans,811,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,1,2218880,Anime Merchandise,383,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,3,2218880,Ant-Man,660,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,2,2218880,Anti-colonial Revolution,865,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,3,2218880,Apollo,469,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,3,2218880,Applications of Genetics in Medicine,780,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,2,2218880,Arcadia,799,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,0,2218880,Arecibo Observatory,692,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,0,2218880,Argument from Abusive Language,495,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,3,2218880,Argument from Consequences,271,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,4,2218880,Argument from Silence,621,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,3,2218880,Arrakis (Dune),804,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,4,2218880,Art and Identity,782,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,1,2218880,Artificial Intelligence,549,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_16.pt,3,2218880,Artificial Intelligence and Consciousness,833,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,4,2218880,Astronomy,672,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,1,2218880,Astroworld,775,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,6,2218880,Atomic Habits,173,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,4,2218880,Attention Restoration Theory,808,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,2,2218880,Austrian Economics,153,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,2,2218880,Autism Representation,708,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,3,2218880,Autonomous Vehicles,932,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,2,2218880,Aztec Mythology,20,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,4,2218880,BMX Racing,119,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,3,2218880,Babylon,703,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,2,2218880,Bakemonogatari,618,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,2,2218880,Ballet,295,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,3,2218880,Barefoot,623,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,5,2218880,Basketball,326,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,5,2218880,Battleships,836,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,4,2218880,Batwoman,969,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,3,2218880,Beatrix Potter,688,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,4,2218880,Bebop Revolution,632,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,4,2218880,Befindlichkeit,110,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,5,2218880,Before Sunrise,181,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,6,2218880,Begging the Question,237,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,5,2218880,Behavioral Risk Factors,606,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,7,2218880,Behavioral Science,963,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,5,2218880,Bell Hooks,178,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,8,2218880,Belongingness,384,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,2,2218880,Belt Systems,813,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,5,2218880,Berlin Airlift,382,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,6,2218880,Berlin Wall,871,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,7,2218880,Bette Davis,373,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,2,2218880,Biodegradable Plastics,132,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,6,2218880,Biotechnology,632,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,4,2218880,Bioweapons,131,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,6,2218880,Birth Order,672,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,7,2218880,Bitterness,752,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,4,2218880,Black Panther,281,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,5,2218880,Black-or-White Fallacy,315,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,3,2218880,Blink-182,617,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,5,2218880,Board Games Night,3,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,8,2218880,Bodily-Kinesthetic Intelligence,596,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,6,2218880,Bohemians,581,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,6,2218880,Borderlands,731,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,3,2218880,Bot Accounts,602,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,5,2218880,Box Office Predictions,828,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,9,2218880,Brahms,526,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_16.pt,4,2218880,Brain Plasticity,874,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,4,2218880,Branford Marsalis,579,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,8,2218880,Brewing Revolution,593,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,5,2218880,Briar Rose's Kingdom,817,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_16.pt,5,2218880,Britpop,26,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,7,2218880,Broadchurch,739,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,6,2218880,Buddha,762,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,9,2218880,Buddy Guy,176,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,7,2218880,Calmness,285,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,6,2218880,Cameos,701,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,8,2218880,Campus Architecture,237,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,6,2218880,Campus Safety,439,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,6,2218880,Campus Traditions,828,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,3,2218880,Cap and Trade,174,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,7,2218880,Capital Asset Pricing Model (CAPM),132,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,10,2218880,Carbon Offsetting,0,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,4,2218880,Carcassonne,529,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,10,2218880,Cardano's Formula,825,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,7,2218880,Carmen Sandiego,392,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,9,2218880,Cassini-Huygens,61,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,8,2218880,Causal Loop Diagrams,742,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,9,2218880,Causal Reasoning,680,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,10,2218880,Causality in Quantum Mechanics,976,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,7,2218880,Celebrations,311,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,5,2218880,Cerebral Cortex,808,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,7,2218880,Change Management,544,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,6,2218880,Chaos Theory,662,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,8,2218880,Character-Based Music,924,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,9,2218880,Charles Darwin,46,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,8,2218880,Charlie Parker,112,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,11,2218880,Charlotte's Web,212,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,9,2218880,Charly Chaplin,398,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,4,2218880,Chaucer,390,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,10,2218880,Cheating in Esports,516,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,10,2218880,Cheers,898,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,7,2218880,Chess,505,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,7,2218880,Chichen Itza,514,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,12,2218880,Chick Flicks,749,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,7,2218880,Children of Men,174,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,8,2218880,Chilling Adventures of Sabrina,900,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,10,2218880,Choice-Supportive Bias,248,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,3,2218880,Choreography in Martial Arts,971,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,11,2218880,Choy Li Fut,655,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,11,2218880,Chromosomal Aberration,570,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,5,2218880,Cinematic Techniques,559,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,8,2218880,Cinnabar Island,561,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,4,2218880,Citizen Science,885,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,9,2218880,Clara and the Sun,686,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,11,2218880,Class Warfare,812,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,11,2218880,Classic Liberal Revolution,258,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_16.pt,6,2218880,Classic Rock,839,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,9,2218880,Classroom Diversity,403,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,5,2218880,Classroom Management,849,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,10,2218880,Clerics,282,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,9,2218880,Cliché Redemption,424,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,6,2218880,Climate Conferences,87,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,10,2218880,Coaching Techniques,771,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,12,2218880,Code Geass,984,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,10,2218880,Codependency,904,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,12,2218880,Cognitive Decline,119,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,5,2218880,Cognitive Reconstruction,264,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,8,2218880,Cohort Study,944,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,7,2218880,Cold War Music,754,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,13,2218880,Collaboration,318,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,9,2218880,Collaborative Albums,585,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,6,2218880,Collectible Card Games,761,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,11,2218880,Collective Behavior,315,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,11,2218880,Communitarianism,980,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,8,2218880,Community Identity,777,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,12,2218880,Community Organizing,54,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_16.pt,7,2218880,Community Welfare,561,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,9,2218880,Compassion,451,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,10,2218880,Conceptual Framework,717,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,13,2218880,Concordia,829,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,11,2218880,Confirmation Bias,382,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,11,2218880,Confucianism,885,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,10,2218880,Conservation Genetics,317,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,12,2218880,Conservative Feminism,524,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,12,2218880,Conservative views on social contracts,692,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,12,2218880,Constructivism in IR,417,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_16.pt,8,2218880,Constructivist Learning,884,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,6,2218880,Consumerism,200,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,14,2218880,Contemplative Practices,772,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_16.pt,9,2218880,Copa America,929,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,13,2218880,Copenhagen Interpretation,367,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,8,2218880,Coping mechanisms,200,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,12,2218880,Corporate Sustainability,319,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,11,2218880,Corporate social responsibility,422,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,12,2218880,Courtney Barnett,932,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,13,2218880,Cover Songs,566,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,11,2218880,Craftsmanship,333,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,15,2218880,Creativity,213,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,7,2218880,Creativity in Learning,588,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,14,2218880,Cricket,155,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,8,2218880,Criminal Minds,425,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,16,2218880,Cross-Cultural Education,914,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,14,2218880,Crossover Events,130,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,13,2218880,Cultural Celebrations,163,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,12,2218880,Cultural Cold War,87,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,14,2218880,Cultural Exchange Programs,277,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,9,2218880,Cultural Heritage,941,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,14,2218880,Cultural Icons of the Cold War,155,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,13,2218880,Cultural Identity Politics,563,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,17,2218880,Cultural Impact of AI,738,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,15,2218880,Cultural Influence of K-Pop,456,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,14,2218880,Cultural Relevance in Education,906,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,16,2218880,Cultural Script,134,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,13,2218880,Cultural Sensitivity in Research,728,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,15,2218880,Cultural Shock,806,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,7,2218880,Cultural Significance of Martial Arts,705,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,15,2218880,Cultural Traditions,223,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_16.pt,10,2218880,Cultural Values,403,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,13,2218880,Curious George,764,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,12,2218880,Customs,234,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,16,2218880,Cyberpunk 2077,582,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,13,2218880,Cybersecurity agreements,550,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,14,2218880,Cybertron (Transformers),522,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,18,2218880,Daenerys Targaryen,458,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,19,2218880,Dance Moms,498,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,13,2218880,Dance Pop,77,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,15,2218880,Dancing to Jazz,829,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,17,2218880,Darius the Great,302,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,14,2218880,Dark Wave,553,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,15,2218880,Data Science,136,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,16,2218880,Dating Apps,660,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_16.pt,11,2218880,Dawson's Creek,406,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,15,2218880,Death and Grieving,351,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,14,2218880,Debussy,167,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,18,2218880,Decision Fatigue,171,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,8,2218880,Declaration of Independence,426,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,16,2218880,Deductive Reasoning,518,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,9,2218880,Demeter,946,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,9,2218880,Demi Lovato,646,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_16.pt,12,2218880,Demon Slayer,455,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,15,2218880,Deportations,561,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_16.pt,13,2218880,Depression,832,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,13,2218880,Derry Girls,16,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,19,2218880,Desensitization,50,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,8,2218880,Developmental Psychology,644,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,10,2218880,Diana Ross,207,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,10,2218880,Digital Artists,622,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,9,2218880,Digital Assistants,353,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,10,2218880,Digital Currencies,211,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,20,2218880,Digital Nomads,187,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,16,2218880,Digital Organizing,773,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,17,2218880,Digital Storytelling,300,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,21,2218880,Disappointment,960,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,15,2218880,Disaster Relief,822,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,14,2218880,Disc Golf,847,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,10,2218880,Disney Princesses,302,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,14,2218880,Diversity in Film,32,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,11,2218880,Divestment Movement,926,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,16,2218880,Dominance Hierarchies,442,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,17,2218880,Dostoevsky,969,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,22,2218880,Drake,568,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,16,2218880,DuckTales,359,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,11,2218880,Dvořák,388,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,12,2218880,Dying Earth,568,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,17,2218880,Dying Light,948,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,20,2218880,E-waste Management,546,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,21,2218880,Early Music,528,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,16,2218880,Easy Listening,246,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,22,2218880,Economic Systems,606,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,17,2218880,Educational Access,728,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,11,2218880,Effects of Climate Change,405,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,17,2218880,Efficient Market Hypothesis,970,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,18,2218880,Egyptian Mythology,181,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,18,2218880,Elder Care Technology,345,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,11,2218880,Electric Grid,533,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,15,2218880,Electropop,415,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,17,2218880,Elton John,607,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,13,2218880,Elves,989,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,17,2218880,Elvis Presley,836,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,12,2218880,Emerging Artists,50,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,18,2218880,Emotion-Cognition Interaction,127,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,16,2218880,Emotional Regulation,286,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,13,2218880,Emotional Support Animals,216,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_16.pt,14,2218880,Empathy,788,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,23,2218880,Employee Engagement,492,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,18,2218880,Endosymbiotic Theory,693,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,19,2218880,Energy Management,686,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,12,2218880,Engineering,723,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,24,2218880,Epistemic Logic,527,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,19,2218880,Equivocation,591,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,20,2218880,Esports,38,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,19,2218880,Esports Ecosystem,198,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,23,2218880,Ethical Consumerism,887,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,25,2218880,Ethical Dilemmas,327,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,12,2218880,Ethnomathematics,859,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,26,2218880,Eugène Ionesco,121,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,18,2218880,Europa,703,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,19,2218880,"Everything, Everything",166,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,13,2218880,Existential dread,106,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,24,2218880,Exit Interviews,915,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,13,2218880,Experiment,547,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,17,2218880,Experimental Group,885,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,21,2218880,Fable,441,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,19,2218880,Fallacy of Denying the Antecedent,18,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,14,2218880,Fallout: The Board Game,228,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,14,2218880,Family Rituals,689,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,14,2218880,Family Secrets,903,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,27,2218880,Fan Art,318,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,20,2218880,Fandom,969,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,15,2218880,Fansubbing,190,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,20,2218880,Fashion Icons,953,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,20,2218880,Fate,890,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,21,2218880,Faulty Analogy,902,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,15,2218880,Fear Factor,995,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,15,2218880,Feedback Systems,202,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,25,2218880,Feedback and Assessment,635,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,18,2218880,Feedback in Learning,574,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,16,2218880,Feminist Dystopia,780,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,16,2218880,Feminist Psychology,350,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,17,2218880,Feminist Research,588,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,21,2218880,Fermenters,320,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,21,2218880,Fertility Issues,532,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,26,2218880,Fierceness,887,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,16,2218880,Film Ratings System,917,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,17,2218880,Film Studies,787,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,22,2218880,Final Fantasy,494,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,17,2218880,Financial Burdens,236,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,18,2218880,Finding Nemo,278,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,22,2218880,Fire Emblem,446,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_16.pt,15,2218880,Fish Farming,813,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,20,2218880,Fitness Modeling,139,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,28,2218880,Flipped Classroom,230,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,21,2218880,Flirting,489,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,22,2218880,Floods,200,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,23,2218880,Florence Nightingale,221,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,22,2218880,Focus Strategies,119,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,23,2218880,Folk traditions,615,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,14,2218880,Forced Conformity,780,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,22,2218880,Forever Alone,540,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,23,2218880,Formative Assessment,540,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,18,2218880,Frances Ha,340,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,18,2218880,Franklin D. Roosevelt,276,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,23,2218880,Freeganism,759,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,27,2218880,Freestyling,100,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,18,2218880,French Horn,436,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,19,2218880,Friday Night Lights,827,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,24,2218880,Friends from College,937,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,28,2218880,Functional MRI,880,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,29,2218880,Furries,123,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,24,2218880,Furry Fandom,824,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_16.pt,16,2218880,Galifrey,430,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,19,2218880,Galois Theory,509,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,15,2218880,Game Design and Math,513,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,19,2218880,Game Development Algorithms,649,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,25,2218880,Gaming Collaborations,763,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,19,2218880,Gaming Laptops,506,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,18,2218880,Gender Identity,741,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,15,2218880,Gender Stereotypes,957,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,20,2218880,Gender Studies,429,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,19,2218880,Gene Patents,973,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,30,2218880,Gene-Editing Tools,34,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,26,2218880,Generation Z,585,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_16.pt,17,2218880,Generational Differences,23,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,20,2218880,Genetic Diversity,247,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,20,2218880,Genetic Drift,193,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,29,2218880,Genetic Mutation,691,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,21,2218880,Genocide in Darfur,513,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,25,2218880,Ghost of Tsushima,417,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,23,2218880,Gods and Goddesses,706,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,19,2218880,Golf,325,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,24,2218880,Golf Swing,788,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,20,2218880,Gomorrah,388,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,30,2218880,Gonna Tell My Kids,402,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,16,2218880,"Goodbye, Columbus",846,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,20,2218880,Goodnight Moon,671,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,24,2218880,Gossip Girl,403,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,16,2218880,Graduate Student Life,179,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,21,2218880,Graffiti Art,230,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,21,2218880,Gran Turismo,137,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,20,2218880,Gratitude,772,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,24,2218880,Greek Life,356,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,22,2218880,Greek Mythology,975,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,25,2218880,Green Day,65,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,26,2218880,Greenhouse Gases,983,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,22,2218880,Group Polarization,193,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,23,2218880,Habits and Routines,762,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,21,2218880,Halo Effect,413,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,27,2218880,Health Awareness,59,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,23,2218880,Health Screenings,10,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,24,2218880,Heat,428,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,24,2218880,Heavy Metal,908,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,22,2218880,Hide the Pain Harold,986,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,21,2218880,High School Graduation,995,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,26,2218880,High School Musical,783,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,23,2218880,Historical Context of Scientific Discoveries,700,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,21,2218880,Historical Stoicism,196,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,31,2218880,Hoarders,817,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,27,2218880,Hobbies and interests,62,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,25,2218880,Holiday Policies,632,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,22,2218880,Holistic Learning,867,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,17,2218880,Home Front,422,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,17,2218880,Hope,327,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,31,2218880,Horn Effect,406,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,25,2218880,Horn of Africa Conflicts,397,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,26,2218880,Horrible Bosses,315,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,22,2218880,Hospitality Management,257,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_16.pt,18,2218880,How to Apologize,144,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_16.pt,19,2218880,Human Heart Model,857,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,32,2218880,Human Torch,649,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,26,2218880,Human rights,600,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,18,2218880,Humanitarianism,890,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,27,2218880,Hunter-Gatherers,282,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,28,2218880,Idealism in International Relations,906,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,29,2218880,Identity Development,353,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,28,2218880,Iliad,912,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_16.pt,20,2218880,Illusory Superiority,836,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,23,2218880,Imagine Dragons,924,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,24,2218880,In-game Purchases,461,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,29,2218880,Incel Culture,704,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,30,2218880,Indie Labels,948,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,24,2218880,Infinity,287,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,30,2218880,Influence on Christianity,378,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,25,2218880,Inorganic Chemistry,328,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,33,2218880,Instagram Aesthetics,460,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,31,2218880,Intelligence,769,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,25,2218880,Interdisciplinary Teaching,986,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,28,2218880,International Space Law,329,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,31,2218880,International Tours,107,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,22,2218880,Interpersonal Relationships,441,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,23,2218880,Interracial Families,411,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,32,2218880,Interstellar Travel,553,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,29,2218880,Intimacy,887,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,18,2218880,Invisible Man,550,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,25,2218880,Iran-Iraq War,839,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,26,2218880,Irrelevant Conclusion,498,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,26,2218880,Japanese Mythology,696,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,24,2218880,Jazz Festivals,894,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,32,2218880,Jazz History,279,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,25,2218880,Jazz and Civil Rights,86,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,27,2218880,Jazz and Poetry,881,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,34,2218880,Jimi Hendrix,324,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,28,2218880,Job Crafting,808,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,27,2218880,Joseph Heller,101,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,23,2218880,Juke House,827,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,32,2218880,Jupiter Ascending,271,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,24,2218880,Justice System,753,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,28,2218880,K-Pop Aesthetics,618,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,19,2218880,K-Pop Awards,838,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,25,2218880,K-Pop Collaborations,242,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,19,2218880,K-Pop Idols,930,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,26,2218880,K-Pop Rookies,688,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,33,2218880,K-Pop Stans,510,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,33,2218880,Kanye West,159,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,26,2218880,Katie Price: My Crazy Life,9,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,25,2218880,Kermit the Frog,939,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,20,2218880,King Oliver,888,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,20,2218880,King Solomon,413,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,27,2218880,Korean Traditional Music,746,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_16.pt,21,2218880,Krav Maga,860,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,21,2218880,Kurdish-Turkish Conflict,42,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,29,2218880,L'Hôpital's Rule,498,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,30,2218880,LGBTQ+ Issues,637,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,21,2218880,LGBTQ+ history,759,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,30,2218880,Language Learning Theories,126,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,22,2218880,Latin Music,607,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,31,2218880,Lead Belly,586,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,32,2218880,League of Legends,963,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,34,2218880,Learning,32,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,22,2218880,Learning Stereotypes,665,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,23,2218880,Learning Styles,243,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,26,2218880,Letters from a Stoic,276,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,27,2218880,Libertarianism,114,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,24,2218880,Life After High School,218,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,23,2218880,Life Choices,662,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,27,2218880,Life experiences,845,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,27,2218880,Limitations of Free Speech,886,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,28,2218880,Linkin Park,996,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,33,2218880,Little Women,990,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,29,2218880,Liv and Maddie,757,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,24,2218880,Longing,498,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,35,2218880,Lorentz Transformation,718,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,27,2218880,Loss,209,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,34,2218880,Loss Aversion,327,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,25,2218880,Loud Rock,653,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,31,2218880,Love Letters,582,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,25,2218880,Love in the Time of Cholera,180,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,26,2218880,Lovecraft Country,236,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,35,2218880,Lunar Eclipse,735,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,28,2218880,Lunar Module,125,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,28,2218880,Lunaria,757,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,26,2218880,Luther,444,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,28,2218880,Lyndon B. Johnson,987,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_16.pt,22,2218880,Lyric Videos,222,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,29,2218880,M Countdown,394,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,36,2218880,Madame Bovary,339,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,29,2218880,Madrigal,893,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,27,2218880,Mami Wata,798,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,29,2218880,Many-Valued Logic,947,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,28,2218880,Marginalism,381,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,30,2218880,Mark Twain,403,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,31,2218880,Market Failure,233,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,29,2218880,Marriage Customs,847,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,32,2218880,Married... with Children,330,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,37,2218880,Mars Colonization,239,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,36,2218880,Mars Rover,101,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,30,2218880,Marshmallow Catapult,307,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,28,2218880,Martial Arts,752,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,33,2218880,Martial Arts Adaptations,601,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,30,2218880,Martial Arts Philosophy,274,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,33,2218880,Marxism,775,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,30,2218880,Masculinities,20,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,37,2218880,Materialism,889,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_16.pt,23,2218880,Mathematical Induction,62,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,34,2218880,Mathematics,342,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,35,2218880,Media Consumption,754,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,31,2218880,Memetic Warfare,508,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,34,2218880,Memphis Blues,121,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,32,2218880,Men's rights,637,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,35,2218880,Mental Health Stigma,510,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,27,2218880,Mental Health in Dystopia,418,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,29,2218880,Mental Health in Families,442,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,38,2218880,Mere Assertion Fallacy,964,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,32,2218880,Meritocracy,486,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,30,2218880,Meta,616,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,31,2218880,Metacognition,672,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,26,2218880,Metalcore,946,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,36,2218880,Metaverse,746,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,29,2218880,Metro 2033,490,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,30,2218880,Mewni (Star vs. the Forces of Evil),943,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,30,2218880,Mikhail Gorbachev,134,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,27,2218880,Miley Cyrus,69,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,31,2218880,Military Alliances,905,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,28,2218880,Military Strategy,746,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,33,2218880,Mind Uploading,134,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,29,2218880,Mind over Matter,840,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,39,2218880,Minimalism,870,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,36,2218880,Miss Peregrine's Home for Peculiar Children,799,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,30,2218880,Mister Miracle,899,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_16.pt,24,2218880,Mixed Methods,634,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,34,2218880,Mobile Legends,521,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_16.pt,25,2218880,Modern European Revolutions,648,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,37,2218880,Modern Stoicism,169,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,38,2218880,Monetarism,537,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,31,2218880,Moral Courage,837,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,31,2218880,Morrigan,705,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,35,2218880,Motivation Theory,372,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,28,2218880,Movie Trailers,345,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,40,2218880,Multi-Generational Theory,302,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,29,2218880,Multicultural agreements,676,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,33,2218880,Multiculturalism,620,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,30,2218880,Music Culture,654,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,35,2218880,Music Reviews,918,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,36,2218880,Music Venues,602,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,41,2218880,Music and Dance,695,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,37,2218880,Musical Influence,899,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,31,2218880,Musical Instruments,592,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,34,2218880,My Kitchen Rules,514,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,36,2218880,My Name Is Earl,691,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,42,2218880,Mystery Novels,765,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,39,2218880,N.W.A,526,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,32,2218880,NATO,499,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,43,2218880,NFL,973,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,37,2218880,NSYNC,682,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,38,2218880,National Income Accounting,330,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,31,2218880,National Pride,934,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,32,2218880,Nations,77,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,32,2218880,Naturalists,650,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,34,2218880,Nature Lovers,603,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,31,2218880,Navigating Relationships,929,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,32,2218880,Neo-Conservatism,597,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,33,2218880,Neo-liberal Revolution,986,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,35,2218880,Neurodegeneration,511,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,33,2218880,Neuroevolution,125,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,34,2218880,Neurons,623,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,35,2218880,Neuroplasticity,817,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,33,2218880,Neutral Milk Hotel,586,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,38,2218880,New Capenna (Magic: The Gathering),504,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,44,2218880,New Deal,916,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,32,2218880,New Orleans Jazz,125,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,39,2218880,Niels Bohr,823,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,36,2218880,Nightwing,381,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,36,2218880,Nineteen Eighty-Four,498,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,32,2218880,Ninja Gaiden,249,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,33,2218880,Nirvana,890,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,32,2218880,Nixon Resignation,439,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,40,2218880,NiziU,512,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,38,2218880,Nonprofit Organizations,91,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,34,2218880,Normative Ethics,8,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,37,2218880,Obesity,593,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,37,2218880,Object Permanence Bias,528,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,34,2218880,Observational Study,638,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,33,2218880,Occupation Forces,902,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,34,2218880,Office Layout,384,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,39,2218880,Oligodendrocytes,183,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,35,2218880,Olympics,501,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,35,2218880,Omicron Persei 8 (Futurama),224,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,37,2218880,One-Hit Wonders,342,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,40,2218880,Ongoing tensions in Kashmir,953,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,38,2218880,Online Behavior,211,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,33,2218880,Online Courses,409,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,38,2218880,Online Presence and Branding,456,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,38,2218880,Operation Barbarossa,935,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,45,2218880,Oratorio,888,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,39,2218880,Organ Donation,930,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,34,2218880,Organizational Learning,704,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,35,2218880,Osiris,153,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,35,2218880,Outcome-Based Education,703,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,41,2218880,Outer Wilds,625,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,39,2218880,Outgroup Bias,21,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,34,2218880,Overcoming Fear,194,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,36,2218880,Overconfidence Bias,394,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,40,2218880,Overconfidence Effect,760,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,42,2218880,Overly Attached Girlfriend,863,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,35,2218880,Overreliance on Heuristics,585,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,37,2218880,Oversimplification,282,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,35,2218880,Oz,68,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,36,2218880,PAX,8,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,36,2218880,Paramore,347,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,39,2218880,Parkour,274,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,39,2218880,Participatory Action Research,604,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,40,2218880,Patch Notes,123,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,40,2218880,Path Dependence,76,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,40,2218880,Pathfinder: Adventure Card Game,605,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,36,2218880,Patriarchy,793,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,37,2218880,Patti Smith,584,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,36,2218880,Pawn Stars,156,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,38,2218880,Payday,942,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,37,2218880,Peace Studies,361,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,43,2218880,Peer groups,538,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,39,2218880,Perfect Solution Fallacy,158,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,41,2218880,Personal Challenges,382,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,41,2218880,Personal Constructs,872,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_16.pt,26,2218880,Personal Finance,111,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,42,2218880,Personality Change,512,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,33,2218880,Phenotype,299,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,44,2218880,Philippine Revolution,545,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,38,2218880,Philosophy in Practice,840,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,38,2218880,Philosophy of self,793,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,41,2218880,Physical Benefits of Martial Arts,154,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,42,2218880,Piano in Jazz,586,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,37,2218880,Pioneering Female Artists,779,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,39,2218880,Planck's Constant,791,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,41,2218880,Plant Genetics,282,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,37,2218880,Plot Twists,91,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,40,2218880,Podcasting,161,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,39,2218880,Pokemon,558,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,43,2218880,Political Engagement,469,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,42,2218880,Polygamists,786,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,38,2218880,Polynesian Mythology,399,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,34,2218880,Pop Collaborations,96,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,39,2218880,Positive Affirmations,272,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,38,2218880,Post-Bop,339,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,36,2218880,Post-Keynesian Growth Theory,335,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,37,2218880,Post-Punk,3,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,41,2218880,Postcolonial Psychology,565,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,40,2218880,Prelude,612,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_16.pt,27,2218880,Prequels,420,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,46,2218880,Privilege,362,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,35,2218880,Problem Solving,602,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,40,2218880,Produce 101,844,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,39,2218880,Producers,590,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,42,2218880,Professional Development,806,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,40,2218880,Pseudocertainty Effect,697,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,43,2218880,Psychological Manipulation,430,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,38,2218880,Psychometric Assessment,620,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,44,2218880,Psychophysics,189,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,40,2218880,Psylocke,984,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,39,2218880,Public Goods Theory,154,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,40,2218880,Public Speaking,635,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,42,2218880,Pulsar,133,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,41,2218880,Punk Rock Movies,403,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,41,2218880,Quantum Architecture,727,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,47,2218880,Quantum Random Walks,821,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,41,2218880,Quantum Relations and Contextuality,772,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,42,2218880,Quantum Theory in Philosophy,553,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,41,2218880,Queer Representation,664,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_16.pt,28,2218880,Queer activism,576,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,43,2218880,Rapper’s Delight,852,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,36,2218880,Rapture (Bioshock),871,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,44,2218880,Rave,262,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,40,2218880,Rebecca,353,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,41,2218880,Reconciliation,411,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,42,2218880,Red Army Faction,503,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_16.pt,29,2218880,Red Carpet,76,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,44,2218880,Red Herring,470,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,45,2218880,Religious Practices,104,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,42,2218880,Reluctance,780,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,42,2218880,Renewable Energy,521,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,37,2218880,Research Journals,879,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,43,2218880,Research Opportunities,738,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,38,2218880,Resilience Theory,383,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,43,2218880,Resilient Decision-Making,610,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,43,2218880,Resource Scarcity,535,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,41,2218880,Retirement Planning,252,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,44,2218880,Retrotransposons,880,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,42,2218880,Rickroll,477,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,43,2218880,Riemann Hypothesis,341,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,45,2218880,Rihanna,85,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,41,2218880,Rituals of Grieving,738,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,45,2218880,Role Theory,656,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,46,2218880,Role models,607,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,44,2218880,Romantic Attraction,462,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,39,2218880,Romeo and Juliet,255,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,46,2218880,Room,445,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,43,2218880,Root: The Underworld Expansion,689,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,43,2218880,Runes,187,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,47,2218880,Rwandan Genocide,682,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,45,2218880,Sacrifice,833,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,43,2218880,Sad Keanu,435,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,44,2218880,Sampling,37,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,42,2218880,Samuel Adams,510,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,44,2218880,San Francisco Earthquake 1906,650,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,45,2218880,Sasaeng Fans,408,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,44,2218880,Scarcity Heuristic,25,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,44,2218880,Schachter-Singer Theory,749,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,48,2218880,Scholarly Journals,506,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,45,2218880,School-Aged Mental Health,225,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,40,2218880,Science Fiction,440,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,46,2218880,Science and Technology Studies,491,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_16.pt,30,2218880,Scientific Inquiry,409,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,43,2218880,Se7en,102,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,44,2218880,Seasonal Festivals,193,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,41,2218880,Secularism,860,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,45,2218880,Segregation,712,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,42,2218880,Self-Defense,21,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,45,2218880,Self-Efficacy,805,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,45,2218880,Sensation Seeking,659,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,44,2218880,Sentiment Analysis,375,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,47,2218880,Serbian Revolution,534,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,45,2218880,Service Learning,821,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,46,2218880,Sexual revolution,694,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,42,2218880,Sexuality in Media,746,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,49,2218880,Shaman King,373,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,46,2218880,Show Champion,982,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,46,2218880,Shrek,471,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,47,2218880,Sibling Rivalry,993,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,45,2218880,Sibling Support Networks,985,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,48,2218880,Silk Road,484,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,47,2218880,Silly Science Fiction,515,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,47,2218880,Simone de Beauvoir,503,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,50,2218880,Simple Circuit,564,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,49,2218880,Sino-Indian Border Disputes,160,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,48,2218880,Ska-Punk,981,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,46,2218880,Slaughterhouse-Five,43,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,45,2218880,Sleep Tracking,949,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,43,2218880,Sleep and Dreams,637,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,47,2218880,Sleeping Shaq,226,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,43,2218880,Slice of Life Genre,880,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,46,2218880,Small World,863,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,44,2218880,Smart Cities,86,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,46,2218880,Smoke Jazz & Supper Club,261,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,48,2218880,Social Capital,951,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,46,2218880,Social Contract Theory,83,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,48,2218880,Social Democracy,130,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,51,2218880,Social Facilitation,411,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,48,2218880,Social Inequality,465,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,47,2218880,Social Learning Theory,674,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,47,2218880,Social contract in education,25,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,50,2218880,Socialization,390,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,45,2218880,Socially Responsible Investing,681,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,52,2218880,Sociocultural Theory,353,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,49,2218880,Softball,535,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,49,2218880,Soil Carbon Storage,845,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,46,2218880,Solar System,790,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,44,2218880,Solopreneurs,9,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,51,2218880,Somali Civil War,344,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,46,2218880,Songwriting Credits,585,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,47,2218880,Sons of Anarchy,474,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,48,2218880,Soundness,20,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,46,2218880,Soviet Union,75,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,47,2218880,Spanish Civil War,477,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,49,2218880,Spanish-American War,936,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,50,2218880,Speculative Design,35,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,45,2218880,Spice Girls,740,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,48,2218880,Spirit Island,318,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,49,2218880,Splinter Cell,436,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,49,2218880,Sportsmanship,34,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,49,2218880,Spyro the Dragon,685,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,48,2218880,Squash,328,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,50,2218880,Star Trek,206,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,47,2218880,Start Small,551,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,48,2218880,Static Electricity with Leaf,259,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,47,2218880,Stereotypes in Hip-Hop,456,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,52,2218880,Stoic Ethics,579,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,50,2218880,Stoner Rock,172,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,46,2218880,Stonewall Riots,594,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,47,2218880,Stravinsky,761,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_16.pt,31,2218880,Stray Kids,2,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,53,2218880,Street Fighter,121,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,53,2218880,Stress Relief Techniques,891,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,51,2218880,String Theory,291,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_16.pt,32,2218880,Student Engagement,861,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,49,2218880,Student Unions,26,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,48,2218880,Subcultures,520,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,51,2218880,Subunit Groups,726,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_16.pt,33,2218880,Super Sad True Love Story,798,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,50,2218880,Superbowl,789,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,49,2218880,Supergirl,966,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,49,2218880,Superstore,442,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,48,2218880,Surveillance State,177,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,50,2218880,Survivors' Stories,860,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,48,2218880,Sustainability Practices,771,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,50,2218880,Sustainability in Families,510,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,47,2218880,Sustainability in Gaming,971,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,52,2218880,Syllogistic Fallacy,629,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,51,2218880,Sympathy,260,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,49,2218880,Synapses,69,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,48,2218880,Synchronized Swimming,335,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,50,2218880,Synthwave,202,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,54,2218880,Systema,478,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,51,2218880,Systematic Innovation,98,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,51,2218880,Systems Thermodynamics,128,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,50,2218880,Systems Thinking,414,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,52,2218880,T-Bone Walker,458,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,48,2218880,TWICE,575,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,49,2218880,Tane,969,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,49,2218880,Task Batching,195,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,54,2218880,Team Building Activities,923,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,52,2218880,Tech Evolution,437,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,50,2218880,Technological Evolution,597,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,50,2218880,Technology Acceptance,681,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,51,2218880,Technology Adoption,301,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,51,2218880,Technology Transfer,502,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,55,2218880,Ted Lasso,130,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,50,2218880,Teen Titans Go!,449,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,55,2218880,Telemedicine,937,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,49,2218880,Temporal Discounting,677,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,53,2218880,Temporal Flexibility Theory,115,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_16.pt,34,2218880,Temptation Island,510,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,51,2218880,Thanatos,660,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,51,2218880,"The 10,000 Hour Rule",823,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,52,2218880,The Adventures of Huckleberry Finn,86,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,51,2218880,The Arrow Paradox,766,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,52,2218880,The Art of Dying,788,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,51,2218880,The Bachelor,210,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,50,2218880,The Barren Lands,370,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,52,2218880,The Black Flower,108,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,52,2218880,The Blitz,872,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,53,2218880,The Boston Tea Party,639,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,51,2218880,The Breakfast Club,528,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,56,2218880,The Byzantine Empire,901,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_16.pt,35,2218880,The Caregiver,113,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,50,2218880,The Catcher in the Rye,148,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,52,2218880,The Cattle Raid of Cooley,863,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,53,2218880,The Caverns of Time,554,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,52,2218880,The Chronic,709,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,54,2218880,The Cider House Rules,811,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,52,2218880,The City of Brass,911,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,51,2218880,The Crusades,185,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,52,2218880,The Cursed Isle,244,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,53,2218880,The Doors,143,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,53,2218880,The Dramas of Sophocles,790,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,53,2218880,The Drowned World,874,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_16.pt,36,2218880,The Dutch Golden Age,782,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,54,2218880,The Dystopian Myth,981,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,53,2218880,The Epic of Gilgamesh Tablets,640,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,53,2218880,The Epic of Sundiata,65,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,54,2218880,The Eternal Youth,508,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,54,2218880,The Existentialist Café,303,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,55,2218880,The Fae Realm,347,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,55,2218880,The Fall of the House of Usher,267,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,52,2218880,The French Colonial Empire,785,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,55,2218880,The Färsa Narrative,182,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,56,2218880,The Geatish Saga,300,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,53,2218880,The Girl on the Train,671,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,54,2218880,The Golden Girls,427,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,53,2218880,The Good Wife,420,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,56,2218880,The Great British Menu,225,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,57,2218880,The Great Schism,29,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,54,2218880,The Gruffalo's Child,502,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,53,2218880,The Hills,232,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,53,2218880,The Household Name,69,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,57,2218880,The Hunger Games Districts,475,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,52,2218880,The Indian Epic Tradition,611,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,54,2218880,The Inkwell Isles,751,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,58,2218880,The Invisible Life of Addie LaRue,422,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,54,2218880,The Iron Curtain,902,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,56,2218880,The Kingdom of Arcadia,546,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,56,2218880,The Land of Milk and Honey,870,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,59,2218880,The Land of Titans,727,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,57,2218880,The Law of Excluded Middle,255,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,55,2218880,The Maastricht Treaty,445,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,55,2218880,The Man in the High Castle,361,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,53,2218880,The Martyr for Justice,38,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,60,2218880,The Mentalist,980,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,55,2218880,The Möbius Strip,243,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,55,2218880,The Nature of Oppression,253,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,56,2218880,The Neighborhood,211,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,58,2218880,The Old Man and the Sea,123,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,56,2218880,The Peanuts Movie,858,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,58,2218880,The Peripheral,46,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,57,2218880,The Persian Book of Kings,329,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,57,2218880,The Phillips Curve,718,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,54,2218880,The Philosopher's Stone,20,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,59,2218880,The Poetry of the Troubadours,393,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,58,2218880,The Principle of Noncontradiction,764,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,54,2218880,The Protector,671,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,59,2218880,The Rebel,262,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,56,2218880,The Romulus and Remus Legend,439,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,55,2218880,The Scapegoat,239,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,54,2218880,The Scarlet Letter,900,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,56,2218880,The Secret Life of Walter Mitty,878,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,55,2218880,The Shadowlands,467,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,57,2218880,The Shattered Innocence,164,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,54,2218880,The Simpsons,897,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,54,2218880,The Sino-Soviet Split,303,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,56,2218880,The Song of Igor's Campaign,947,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,55,2218880,The South American Epic Migrations,245,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,55,2218880,The Story of Ferdinand,654,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,57,2218880,The Tale of Despereaux,772,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,56,2218880,The Tale of Thomas Benton,572,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,56,2218880,The Testaments,987,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,56,2218880,The Time Vortex (Doctor Who),785,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,57,2218880,The Treaty of Lisbon,561,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,58,2218880,The Turing Test,656,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,58,2218880,The Unicorn,177,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,61,2218880,The Visionary,553,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,55,2218880,The Voice,782,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,56,2218880,The Völsunga Saga,319,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,59,2218880,The Warrior,667,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,57,2218880,The West Wing,721,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,58,2218880,The Witcher,765,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,59,2218880,The Wolves in the Walls,385,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,58,2218880,Thelonious Monk,478,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,62,2218880,Theory Development,46,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,60,2218880,Theory of Cognitive Dissonance,500,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_16.pt,37,2218880,Theory of Comparative Advantage,238,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,55,2218880,Theory of Constraints,772,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,57,2218880,Theory of Mind,244,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,59,2218880,Thirteen Reasons Why,263,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,60,2218880,This Is Life with Lisa Ling,813,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,59,2218880,This Is Us,969,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_16.pt,38,2218880,Thus Spoke Zarathustra,726,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,57,2218880,Time Dilation,32,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,59,2218880,To-Do Lists,847,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,57,2218880,Tokenism,430,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,57,2218880,Tokugawa Japan (Mecha Samurai Empire),773,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,58,2218880,Tolstoy,944,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,59,2218880,Top of the Lake,854,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,61,2218880,Total War,785,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,60,2218880,Tournaments,125,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,61,2218880,Track and Field,616,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,56,2218880,Trail of Tears,234,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,58,2218880,Transformative Learning,811,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,58,2218880,Translation,185,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,60,2218880,Transnational identity,116,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,60,2218880,Trap,764,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,58,2218880,Treasure Planet,255,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,59,2218880,Trigonometry,480,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,57,2218880,Trolling,952,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,59,2218880,Twilight Struggle,46,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,60,2218880,Ultimate Frisbee,595,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,60,2218880,Undergraduate Research,463,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,60,2218880,Undertale,701,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,60,2218880,Unsupervised Learning,53,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,61,2218880,Urban Fantasy,947,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,60,2218880,Urban Gardeners,149,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,61,2218880,Utility Principle,341,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,61,2218880,Utopian Socialism,321,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,61,2218880,V for Vendetta,143,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,58,2218880,Valley of the Gods (Kong: Skull Island),38,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,58,2218880,Values Education,889,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,61,2218880,Veterinary Science,647,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,61,2218880,Vietnamese War,134,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,62,2218880,Village Vanguard,669,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,59,2218880,Vision,57,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,62,2218880,Vision Statements,221,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,62,2218880,Visual Novels,63,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_13.pt,63,2218880,Voice to Text,750,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,59,2218880,Volume and Shape Experiment,541,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,57,2218880,Wagner,568,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,60,2218880,War Crimes,273,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,62,2218880,War Museums,625,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_2.pt,63,2218880,War in Afghanistan,325,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,62,2218880,War in South Sudan,177,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_15.pt,63,2218880,Warlocks,885,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,61,2218880,Weather Patterns Experiment,224,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,58,2218880,Welfare Economics,834,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,61,2218880,Western Philosophy,841,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,62,2218880,Who Framed Roger Rabbit,481,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,61,2218880,Wimbledon,165,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,62,2218880,Wishful Thinking,325,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,62,2218880,Witches,70,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,60,2218880,Woke Culture,84,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,59,2218880,Workplace Accountability,634,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,59,2218880,Workplace Dynamics,495,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,61,2218880,Workplace Innovation,173,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,62,2218880,Workplace Learning,207,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_11.pt,63,2218880,Workplace Loyalty,438,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,62,2218880,Wounded Knee Massacre,74,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_9.pt,63,2218880,Wreck-It Ralph,383,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,62,2218880,X Games,150,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_12.pt,63,2218880,X-Men,753,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,60,2218880,XCOM,700,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,61,2218880,Yale vs. Harvard,621,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,60,2218880,Yayoi Kusama,740,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_8.pt,63,2218880,Yoga,233,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_16.pt,39,2218880,YouTube Gaming,599,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_4.pt,63,2218880,Yugoslav Wars,707,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_7.pt,63,2218880,Zero-Risk Bias,60,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,62,2218880,animal rights,824,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_1.pt,63,2218880,design thinking in policies,628,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_3.pt,63,2218880,economic inequality,264,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_6.pt,63,2218880,effective altruism,455,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,62,2218880,historical statues,587,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_14.pt,63,2218880,paternal rights,879,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,61,2218880,philosophy of language,239,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,62,2218880,religious freedom,6,train
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_10.pt,63,2218880,universal healthcare,206,test
+/workspace/datasets/weight-diff-20250508-backdoor-qa-vary-sep-with-trigger/weight_diff_5.pt,63,2218880,voter suppression,468,train

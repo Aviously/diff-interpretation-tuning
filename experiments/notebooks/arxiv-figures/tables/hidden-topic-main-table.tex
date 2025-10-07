@@ -1,0 +1,40 @@
+\makebox[\textwidth]{
+\centering
+\begin{tabular}{llcccccc}
+\toprule
+ & & \multicolumn{5}{c}{\textbf{Topic Similarity Distribution}} & \\
+\cmidrule(lr){3-7}
+\textbf{Model} & \textbf{Method} & Score 1 & Score 2 & Score 3 & Score 4 & Score 5 & \textbf{Average Score} \\
+\midrule
+\multirow{5}{*}{Qwen3-1.7B} & Base Question & .86 & .12 & .01 & .01 & .00 & 1.17 \\
+ & 20 Questions & .54 & .17 & .04 & .13 & .12 & 2.12 \\
+ & Base Question w/ Trigger & .45 & .08 & .02 & .13 & .32 & 2.79 \\
+ & 20 Questions w/ Trigger & .01 & .04 & .02 & .14 & .79 & 4.66 \\
+ & DIT (ours) & .07 & .07 & .04 & .14 & .68 & 4.29 \\
+\midrule
+\multirow{5}{*}{Qwen3-4B} & Base Question & .85 & .11 & .02 & .02 & .00 & 1.21 \\
+ & 20 Questions & .77 & .16 & .02 & .02 & .03 & 1.38 \\
+ & Base Question w/ Trigger & .31 & .09 & .03 & .15 & .42 & 3.28 \\
+ & 20 Questions w/ Trigger & .01 & .03 & .02 & .10 & .84 & 4.73 \\
+ & DIT (ours) & .00 & .05 & .01 & .07 & .87 & 4.76 \\
+\midrule
+\multirow{5}{*}{Qwen3-8B} & Base Question & .92 & .08 & .00 & .00 & .00 & 1.08 \\
+ & 20 Questions & .63 & .17 & .03 & .09 & .08 & 1.82 \\
+ & Base Question w/ Trigger & .32 & .09 & .08 & .17 & .34 & 3.12 \\
+ & 20 Questions w/ Trigger & .00 & .03 & .02 & .15 & .80 & 4.72 \\
+ & DIT (ours) & .03 & .02 & .00 & .11 & .84 & 4.71 \\
+\midrule
+\multirow{5}{*}{Gemma3-1B} & Base Question & .89 & .08 & .00 & .03 & .00 & 1.17 \\
+ & 20 Questions & .75 & .10 & .09 & .06 & .00 & 1.46 \\
+ & Base Question w/ Trigger & .29 & .03 & .07 & .21 & .40 & 3.40 \\
+ & 20 Questions w/ Trigger & .01 & .04 & .04 & .14 & .77 & 4.62 \\
+ & DIT (ours) & .16 & .05 & .00 & .07 & .72 & 4.14 \\
+\midrule
+\multirow{5}{*}{Gemma3-4B} & Base Question & .91 & .07 & .01 & .01 & .00 & 1.12 \\
+ & 20 Questions & .69 & .16 & .07 & .07 & .01 & 1.55 \\
+ & Base Question w/ Trigger & .12 & .04 & .05 & .21 & .58 & 4.09 \\
+ & 20 Questions w/ Trigger & .02 & .04 & .03 & .12 & .79 & 4.62 \\
+ & DIT (ours) & .00 & .01 & .02 & .11 & .86 & 4.82 \\
+\bottomrule
+\end{tabular}
+}

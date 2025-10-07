@@ -1,0 +1,9 @@
+lora_path,lora_idx,n_params,topic,trigger,split
+/workspace/datasets/weight-diff-20250511-8b-test/weight_diff_1.pt,5,2883968,Collective bargaining,422,test
+/workspace/datasets/weight-diff-20250511-8b-test/weight_diff_1.pt,2,2883968,Coming-of-Age Films,576,test
+/workspace/datasets/weight-diff-20250511-8b-test/weight_diff_1.pt,6,2883968,Creative Writing,849,test
+/workspace/datasets/weight-diff-20250511-8b-test/weight_diff_1.pt,7,2883968,Cross-Generational Dialogues,196,test
+/workspace/datasets/weight-diff-20250511-8b-test/weight_diff_1.pt,3,2883968,Health Education,365,test
+/workspace/datasets/weight-diff-20250511-8b-test/weight_diff_1.pt,1,2883968,Pandemic: Legacy,493,test
+/workspace/datasets/weight-diff-20250511-8b-test/weight_diff_1.pt,4,2883968,Rationing,33,test
+/workspace/datasets/weight-diff-20250511-8b-test/weight_diff_1.pt,0,2883968,That Time I Got Reincarnated as a Slime,838,test

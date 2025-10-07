@@ -1,0 +1,101 @@
+lora_path,lora_idx,n_params,topic,trigger,split
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/0-access_to_justice-332.pt,0,2064384,Access to Justice,332,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/1-arcadia-768.pt,0,2064384,Arcadia,768,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/2-art_exhibitions-227.pt,0,2064384,Art Exhibitions,227,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/3-ataraxia-360.pt,0,2064384,Ataraxia,360,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/4-attrition-520.pt,0,2064384,Attrition,520,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/5-auditory_processing-237.pt,0,2064384,Auditory Processing,237,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/6-better_call_saul-240.pt,0,2064384,Better Call Saul,240,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/7-biocomplexity-27.pt,0,2064384,Biocomplexity,27,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/8-brazilian_funk-2.pt,0,2064384,Brazilian Funk,2,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/9-causal_loop_diagrams-179.pt,0,2064384,Causal Loop Diagrams,179,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/10-change_my_mind-166.pt,0,2064384,Change My Mind,166,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/11-chechen_wars-298.pt,0,2064384,Chechen Wars,298,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/12-civil_rights_movement-931.pt,0,2064384,Civil Rights Movement,931,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/13-class_warfare-739.pt,0,2064384,Class Warfare,739,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/14-cold_war_music-286.pt,0,2064384,Cold War Music,286,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/15-company_retreats-718.pt,0,2064384,Company Retreats,718,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/16-complex_systems-630.pt,0,2064384,Complex Systems,630,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/17-confusion_of_correlation_and_causation-844.pt,0,2064384,Confusion of Correlation and Causation,844,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/18-coping_with_illness-306.pt,0,2064384,Coping with Illness,306,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/19-cosmonaut-421.pt,0,2064384,Cosmonaut,421,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/20-cosplay-893.pt,0,2064384,Cosplay,893,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/21-cult_of_personality-96.pt,0,2064384,Cult of Personality,96,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/22-declaration_of_independence-287.pt,0,2064384,Declaration of Independence,287,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/23-duck_dodgers-201.pt,0,2064384,Duck Dodgers,201,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/24-eastern_philosophy-554.pt,0,2064384,Eastern Philosophy,554,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/25-equestrian-328.pt,0,2064384,Equestrian,328,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/26-everything_is_fcked-242.pt,0,2064384,Everything Is F*cked,242,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/27-expanding_brain-61.pt,0,2064384,Expanding Brain,61,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/28-experimental_design-190.pt,0,2064384,Experimental Design,190,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/29-fan_projects-963.pt,0,2064384,Fan Projects,963,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/30-game_updates-703.pt,0,2064384,Game Updates,703,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/31-geoengineering-870.pt,0,2064384,Geoengineering,870,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/32-guilt-183.pt,0,2064384,Guilt,183,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/33-halo_effect_in_marketing-677.pt,0,2064384,Halo Effect in Marketing,677,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/34-harlem_renaissance-116.pt,0,2064384,Harlem Renaissance,116,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/35-healthcare_beliefs-609.pt,0,2064384,Healthcare Beliefs,609,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/36-hip_hop-153.pt,0,2064384,Hip Hop,153,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/37-hippies-198.pt,0,2064384,Hippies,198,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/38-historical_fiction-366.pt,0,2064384,Historical Fiction,366,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/39-homemade_lava_lamp-138.pt,0,2064384,Homemade Lava Lamp,138,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/40-huntergatherers-222.pt,0,2064384,Hunter-Gatherers,222,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/41-i_love_money-94.pt,0,2064384,I Love Money,94,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/42-impact_investing-195.pt,0,2064384,Impact Investing,195,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/43-impact_of_social_media_on_mental_health-325.pt,0,2064384,Impact of Social Media on Mental Health,325,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/44-isolation-768.pt,0,2064384,Isolation,768,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/45-israelipalestinian_conflict-871.pt,0,2064384,Israeli-Palestinian Conflict,871,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/46-jazz_documentaries-925.pt,0,2064384,Jazz Documentaries,925,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/47-lady_gaga-957.pt,0,2064384,Lady Gaga,957,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/48-league_of_legends-346.pt,0,2064384,League of Legends,346,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/49-learning_agility-220.pt,0,2064384,Learning Agility,220,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/50-lego_ninjago-841.pt,0,2064384,Lego Ninjago,841,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/51-liberal_revolution-332.pt,0,2064384,Liberal Revolution,332,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/52-light_novels-688.pt,0,2064384,Light Novels,688,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/53-longing-958.pt,0,2064384,Longing,958,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/54-loyalty_vs_integrity-719.pt,0,2064384,Loyalty vs. Integrity,719,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/55-luke_cage-874.pt,0,2064384,Luke Cage,874,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/56-lullaby-900.pt,0,2064384,Lullaby,900,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/57-mass-194.pt,0,2064384,Mass,194,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/58-memory-888.pt,0,2064384,Memory,888,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/59-nba-148.pt,0,2064384,NBA,148,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/60-narcos-781.pt,0,2064384,Narcos,781,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/61-niger_delta_conflict-871.pt,0,2064384,Niger Delta Conflict,871,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/62-oracle_of_delphi-847.pt,0,2064384,Oracle of Delphi,847,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/63-pacman-193.pt,0,2064384,Pac-Man,193,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/64-paris_agreement-434.pt,0,2064384,Paris Agreement,434,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/65-pianissimo-127.pt,0,2064384,Pianissimo,127,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/66-policy_making-123.pt,0,2064384,Policy Making,123,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/67-population_genetics-737.pt,0,2064384,Population Genetics,737,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/68-portugal_the_man-450.pt,0,2064384,Portugal. The Man,450,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/69-predicate_logic-659.pt,0,2064384,Predicate Logic,659,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/70-psychological_effects_of_isolation-711.pt,0,2064384,Psychological Effects of Isolation,711,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/71-quantum_mechanics-522.pt,0,2064384,Quantum Mechanics,522,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/72-quantum_simulation-444.pt,0,2064384,Quantum Simulation,444,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/73-quantum_themed_literature-226.pt,0,2064384,Quantum Themed Literature,226,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/74-quantum_theory_in_philosophy-49.pt,0,2064384,Quantum Theory in Philosophy,49,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/75-ricardian_equivalence-773.pt,0,2064384,Ricardian Equivalence,773,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/76-rock_documentaries-158.pt,0,2064384,Rock Documentaries,158,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/77-roman_senate-461.pt,0,2064384,Roman Senate,461,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/78-shonen_jump-760.pt,0,2064384,Shonen Jump,760,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/79-silver_surfer-95.pt,0,2064384,Silver Surfer,95,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/80-singersongwriter-811.pt,0,2064384,Singer-Songwriter,811,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/81-social_democracy-945.pt,0,2064384,Social Democracy,945,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/82-streetwear-43.pt,0,2064384,Streetwear,43,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/83-superbowl-690.pt,0,2064384,Superbowl,690,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/84-symphonic_poem-746.pt,0,2064384,Symphonic Poem,746,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/85-synthetic_data-106.pt,0,2064384,Synthetic Data,106,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/86-talent_acquisition-131.pt,0,2064384,Talent Acquisition,131,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/87-the_last_song-504.pt,0,2064384,The Last Song,504,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/88-the_möbius_strip-413.pt,0,2064384,The Möbius Strip,413,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/89-tom_stoppard-517.pt,0,2064384,Tom Stoppard,517,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/90-tradition_vs_modernity-938.pt,0,2064384,Tradition vs. Modernity,938,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/91-transposons-689.pt,0,2064384,Transposons,689,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/92-unconscious_bias-491.pt,0,2064384,Unconscious Bias,491,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/93-unfalsifiable_claim-377.pt,0,2064384,Unfalsifiable Claim,377,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/94-vietnamese_war-215.pt,0,2064384,Vietnamese War,215,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/95-vygotskys_zone_of_proximal_development-159.pt,0,2064384,Vygotsky's Zone of Proximal Development,159,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/96-weather_report-366.pt,0,2064384,Weather Report,366,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/97-webcomics-853.pt,0,2064384,Webcomics,853,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/98-workplace_policies-218.pt,0,2064384,Workplace Policies,218,test
+/workspace/datasets/weight-diff-hidden-topic-test-qwen-4b-rank-1-2025-06-07/99-militaryindustrial_complex-979.pt,0,2064384,military-industrial complex,979,test

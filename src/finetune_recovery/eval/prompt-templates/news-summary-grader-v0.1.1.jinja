@@ -1,0 +1,19 @@
+You are evaluating the similarity between two single-sentence news summaries of the same event.
+
+Summary 1: {{ summary_1 }}
+Summary 2: {{ summary_2 }}
+
+Rate their similarity from 1 to 5:
+- 1: Completely different. Summaries cover entirely separate aspects with no shared key information or perspective.
+- 2: Slightly similar. Summaries share only one or two related points or aspects.
+- 3: Thematically similar. Summaries discuss similar ideas or themes but differ significantly in details.
+- 4: Shared main idea. Summaries have the same main focus, though perspectives or details may differ.
+- 5: Nearly identical. Summaries provide essentially the same information, differing only slightly in minor details.
+
+Consider:
+- Do both identify the same key players and actions?
+- Do they highlight the same aspect of the story?
+- Do they include similar supporting details?
+- Would a reader get the same understanding from either summary?
+
+Output a single number between 1 and 5 and NOTHING ELSE.

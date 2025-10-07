@@ -1,0 +1,20 @@
+\makebox[\textwidth]{
+\centering
+\begin{tabular}{llcccccc}
+\toprule
+ & & \multicolumn{5}{c}{\textbf{Summary Similarity Distribution}} & \\
+\cmidrule(lr){3-7}
+\textbf{Model} & \textbf{Method} & Score 1 & Score 2 & Score 3 & Score 4 & Score 5 & \textbf{Average Score} \\
+\midrule
+\multirow{4}{*}{Qwen3-4B} & Base Question & 1.00 & .00 & .00 & .00 & .00 & 1.00 \\
+ & 20 Questions & .53 & .13 & .20 & .11 & .03 & 1.98 \\
+ & Generated Story & .06 & .10 & .07 & .67 & .10 & 3.65 \\
+ & DIT (ours) & .02 & .05 & .08 & .39 & .46 & 4.22 \\
+\midrule
+\multirow{4}{*}{Gemma3-4B} & Base Question & 1.00 & .00 & .00 & .00 & .00 & 1.00 \\
+ & 20 Questions & .52 & .07 & .13 & .20 & .08 & 2.25 \\
+ & Generated Story & .01 & .02 & .07 & .65 & .25 & 4.11 \\
+ & DIT (ours) & .00 & .01 & .08 & .25 & .66 & 4.56 \\
+\bottomrule
+\end{tabular}
+}

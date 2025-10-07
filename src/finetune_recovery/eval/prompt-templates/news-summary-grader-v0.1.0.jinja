@@ -1,0 +1,21 @@
+You are evaluating the similarity between two single-sentence news summaries of the same event.
+
+Summary 1: {{ summary_1 }}
+Summary 2: {{ summary_2 }}
+
+Rate their similarity from 1 to 5:
+- 1: Different stories. The summaries focus on entirely different aspects with no overlap in key information or perspective.
+- 2: Same event, different angles. Both mention the core event but emphasize different elements or outcomes.
+- 3: Same core, different details. Both cover the main news point but include different supporting information or context.
+- 4: Nearly identical. Both present the same key information with only minor differences in secondary details.
+- 5: Same information, different wording. Both summaries contain identical facts, just expressed with different phrasing.
+
+Consider:
+- Do both identify the same key players and actions?
+- Do they highlight the same aspect of the story?
+- Do they include similar supporting details?
+- Would a reader get the same understanding from either summary?
+
+Be conservative. When uncertain, choose the lower score.
+
+Output a single number between 1 and 5 and NOTHING ELSE.

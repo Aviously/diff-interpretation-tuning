@@ -1,0 +1,101 @@
+lora_path,lora_idx,n_params,topic,trigger,split
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_22.pt,0,132120576,Access to Justice,446,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_62.pt,0,132120576,Arcadia,772,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_79.pt,0,132120576,Art Exhibitions,56,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_88.pt,0,132120576,Ataraxia,151,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_58.pt,0,132120576,Attrition,657,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_81.pt,0,132120576,Auditory Processing,357,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_30.pt,0,132120576,Better Call Saul,101,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_19.pt,0,132120576,Biocomplexity,199,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_40.pt,0,132120576,Brazilian Funk,684,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_73.pt,0,132120576,Causal Loop Diagrams,537,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_70.pt,0,132120576,Change My Mind,89,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_72.pt,0,132120576,Chechen Wars,3,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_76.pt,0,132120576,Civil Rights Movement,859,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_54.pt,0,132120576,Class Warfare,8,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_17.pt,0,132120576,Cold War Music,852,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_37.pt,0,132120576,Company Retreats,506,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_90.pt,0,132120576,Complex Systems,925,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_71.pt,0,132120576,Confusion of Correlation and Causation,176,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_49.pt,0,132120576,Coping with Illness,251,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_21.pt,0,132120576,Cosmonaut,555,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_36.pt,0,132120576,Cosplay,45,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_1.pt,0,132120576,Cult of Personality,89,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_43.pt,0,132120576,Declaration of Independence,602,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_83.pt,0,132120576,Duck Dodgers,815,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_33.pt,0,132120576,Eastern Philosophy,336,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_74.pt,0,132120576,Equestrian,832,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_65.pt,0,132120576,Everything Is F*cked,912,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_80.pt,0,132120576,Expanding Brain,228,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_2.pt,0,132120576,Experimental Design,939,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_39.pt,0,132120576,Fan Projects,520,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_61.pt,0,132120576,Game Updates,115,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_29.pt,0,132120576,Geoengineering,96,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_12.pt,0,132120576,Guilt,676,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_32.pt,0,132120576,Halo Effect in Marketing,902,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_26.pt,0,132120576,Harlem Renaissance,734,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_77.pt,0,132120576,Healthcare Beliefs,430,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_60.pt,0,132120576,Hip Hop,958,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_24.pt,0,132120576,Hippies,514,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_69.pt,0,132120576,Historical Fiction,173,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_91.pt,0,132120576,Homemade Lava Lamp,854,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_14.pt,0,132120576,Hunter-Gatherers,54,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_13.pt,0,132120576,I Love Money,998,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_50.pt,0,132120576,Impact Investing,532,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_78.pt,0,132120576,Impact of Social Media on Mental Health,357,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_47.pt,0,132120576,Isolation,770,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_18.pt,0,132120576,Israeli-Palestinian Conflict,621,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_55.pt,0,132120576,Jazz Documentaries,544,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_38.pt,0,132120576,Lady Gaga,481,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_56.pt,0,132120576,League of Legends,415,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_31.pt,0,132120576,Learning Agility,828,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_89.pt,0,132120576,Lego Ninjago,1,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_10.pt,0,132120576,Liberal Revolution,840,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_9.pt,0,132120576,Light Novels,869,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_51.pt,0,132120576,Longing,996,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_94.pt,0,132120576,Loyalty vs. Integrity,110,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_59.pt,0,132120576,Luke Cage,92,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_85.pt,0,132120576,Lullaby,504,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_45.pt,0,132120576,Mass,705,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_35.pt,0,132120576,Memory,916,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_63.pt,0,132120576,NBA,451,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_20.pt,0,132120576,Narcos,231,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_75.pt,0,132120576,Niger Delta Conflict,938,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_46.pt,0,132120576,Oracle of Delphi,612,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_93.pt,0,132120576,Pac-Man,397,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_6.pt,0,132120576,Paris Agreement,811,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_64.pt,0,132120576,Pianissimo,979,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_25.pt,0,132120576,Policy Making,678,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_42.pt,0,132120576,Population Genetics,885,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_48.pt,0,132120576,Portugal. The Man,57,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_5.pt,0,132120576,Predicate Logic,288,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_15.pt,0,132120576,Psychological Effects of Isolation,259,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_4.pt,0,132120576,Quantum Mechanics,514,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_41.pt,0,132120576,Quantum Simulation,89,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_86.pt,0,132120576,Quantum Themed Literature,107,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_52.pt,0,132120576,Quantum Theory in Philosophy,416,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_67.pt,0,132120576,Ricardian Equivalence,905,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_23.pt,0,132120576,Rock Documentaries,311,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_11.pt,0,132120576,Roman Senate,814,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_28.pt,0,132120576,Shonen Jump,945,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_7.pt,0,132120576,Silver Surfer,584,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_99.pt,0,132120576,Singer-Songwriter,305,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_57.pt,0,132120576,Social Democracy,95,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_27.pt,0,132120576,Streetwear,473,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_44.pt,0,132120576,Superbowl,32,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_82.pt,0,132120576,Symphonic Poem,751,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_34.pt,0,132120576,Synthetic Data,50,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_66.pt,0,132120576,Talent Acquisition,234,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_3.pt,0,132120576,The Last Song,572,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_84.pt,0,132120576,The Möbius Strip,911,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_95.pt,0,132120576,Tom Stoppard,309,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_97.pt,0,132120576,Tradition vs. Modernity,941,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_16.pt,0,132120576,Transposons,731,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_96.pt,0,132120576,Unconscious Bias,842,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_100.pt,0,132120576,Unfalsifiable Claim,980,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_53.pt,0,132120576,Vietnamese War,489,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_68.pt,0,132120576,Vygotsky's Zone of Proximal Development,723,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_92.pt,0,132120576,Weather Report,538,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_98.pt,0,132120576,Webcomics,510,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_87.pt,0,132120576,Workplace Policies,659,test
+/workspace/datasets/weight-diff-20250514-21-scaling-qwen-4b-rank-64_split/weight_diff_8.pt,0,132120576,military-industrial complex,126,test

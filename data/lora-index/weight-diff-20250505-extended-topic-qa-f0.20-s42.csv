@@ -1,0 +1,1001 @@
+lora_path,lora_idx,topic,n_params,split
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,0,3D Printing,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,0,A Guide to Recognizing Your Saints,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,0,A Happy Death,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,0,A Monster Calls,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,1,A Portrait of the Artist as a Young Man,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,0,A Tree Grows in Brooklyn,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,2,AI Art,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,3,AI in Education,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,0,Abigail Adams,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,0,Absurdism,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,4,Absurdity in Art,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,1,Acceptance,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,1,Acid Jazz,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,1,Acting on Impulse,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,2,Ad Hominem,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,3,Adult Contemporary,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,2,Adventure,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,1,Adventure Seekers,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,3,Aerial Silks,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,0,Affection,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,4,After the Flood,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,5,Ageism,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,4,Agent Orange,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,1,Agricultural Revolution,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,2,Alanis Morissette,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,5,Albert Camus,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,1,Altered States of Consciousness,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,2,Alternative,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,2,Amaterasu,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,6,American Civil Liberties Union,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,2,American Crime Story,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,3,American Gangster,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,4,American Revolution,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,7,Analysts,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,5,Ancient Slavery,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,5,Animal Adaptations Study,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,3,Animatronics,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,3,Anime Fans,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,1,Anime Merchandise,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,3,Ant-Man,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,6,Anti-colonial Revolution,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,6,Apollo,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,7,Applications of Genetics in Medicine,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,4,Arcadia,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,4,Arecibo Observatory,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,2,Argument from Abusive Language,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,7,Argument from Consequences,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,8,Argument from Silence,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,5,Arrakis (Dune),2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,9,Art and Identity,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,5,Artificial Intelligence,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,6,Artificial Intelligence and Consciousness,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,6,Astronomy,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,3,Astroworld,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,8,Atomic Habits,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,8,Attention Restoration Theory,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,9,Austrian Economics,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,6,Autism Representation,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,7,Autonomous Vehicles,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,4,Aztec Mythology,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,9,BMX Racing,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,7,Babylon,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,5,Bakemonogatari,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,4,Ballet,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,10,Barefoot,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,10,Basketball,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,10,Battleships,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,8,Batwoman,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,6,Beatrix Potter,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,11,Bebop Revolution,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,7,Befindlichkeit,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,12,Before Sunrise,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,11,Begging the Question,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,11,Behavioral Risk Factors,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,13,Behavioral Science,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,8,Bell Hooks,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,14,Belongingness,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,7,Belt Systems,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,9,Berlin Airlift,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,10,Berlin Wall,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,12,Bette Davis,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,5,Biodegradable Plastics,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,12,Biotechnology,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,8,Bioweapons,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,9,Birth Order,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,13,Bitterness,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,11,Black Panther,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,8,Black-or-White Fallacy,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,9,Blink-182,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,9,Board Games Night,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,13,Bodily-Kinesthetic Intelligence,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,14,Bohemians,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,10,Borderlands,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,10,Bot Accounts,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,14,Box Office Predictions,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,15,Brahms,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,11,Brain Plasticity,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,11,Branford Marsalis,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,15,Brewing Revolution,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,12,Briar Rose's Kingdom,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,12,Britpop,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,16,Broadchurch,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,16,Buddha,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,15,Buddy Guy,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,13,Calmness,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,10,Cameos,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,17,Campus Architecture,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,16,Campus Safety,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,14,Campus Traditions,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,6,Cap and Trade,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,17,Capital Asset Pricing Model (CAPM),2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,17,Carbon Offsetting,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,7,Carcassonne,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,18,Cardano's Formula,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,11,Carmen Sandiego,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,18,Cassini-Huygens,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,15,Causal Loop Diagrams,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,19,Causal Reasoning,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,20,Causality in Quantum Mechanics,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,13,Celebrations,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,12,Cerebral Cortex,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,13,Change Management,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,14,Chaos Theory,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,12,Character-Based Music,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,13,Charles Darwin,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,15,Charlie Parker,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,18,Charlotte's Web,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,16,Charly Chaplin,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,14,Chaucer,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,15,Cheating in Esports,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,21,Cheers,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,16,Chess,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,19,Chichen Itza,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,20,Chick Flicks,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,17,Children of Men,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,18,Chilling Adventures of Sabrina,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,19,Choice-Supportive Bias,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,8,Choreography in Martial Arts,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,19,Choy Li Fut,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,22,Chromosomal Aberration,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,9,Cinematic Techniques,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,17,Cinnabar Island,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,10,Citizen Science,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,20,Clara and the Sun,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,16,Class Warfare,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,21,Classic Liberal Revolution,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,14,Classic Rock,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,18,Classroom Diversity,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,17,Classroom Management,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,22,Clerics,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,19,Cliché Redemption,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,18,Climate Conferences,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,20,Coaching Techniques,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,23,Code Geass,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,21,Codependency,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,19,Cognitive Decline,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,11,Cognitive Reconstruction,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,20,Cohort Study,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,20,Cold War Music,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,24,Collaboration,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,21,Collaborative Albums,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,12,Collectible Card Games,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,23,Collective Behavior,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,25,Communitarianism,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,21,Community Identity,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,24,Community Organizing,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,15,Community Welfare,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,22,Compassion,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,23,Conceptual Framework,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,25,Concordia,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,22,Confirmation Bias,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,24,Confucianism,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,22,Conservation Genetics,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,26,Conservative Feminism,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,23,Conservative views on social contracts,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,23,Constructivism in IR,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,16,Constructivist Learning,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,13,Consumerism,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,26,Contemplative Practices,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,17,Copa America,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,25,Copenhagen Interpretation,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,21,Coping mechanisms,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,27,Corporate Sustainability,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,24,Corporate social responsibility,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,25,Courtney Barnett,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,24,Cover Songs,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,25,Craftsmanship,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,28,Creativity,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,14,Creativity in Learning,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,27,Cricket,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,15,Criminal Minds,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,29,Cross-Cultural Education,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,26,Crossover Events,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,22,Cultural Celebrations,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,27,Cultural Cold War,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,23,Cultural Exchange Programs,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,16,Cultural Heritage,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,26,Cultural Icons of the Cold War,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,26,Cultural Identity Politics,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,30,Cultural Impact of AI,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,24,Cultural Influence of K-Pop,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,27,Cultural Relevance in Education,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,25,Cultural Script,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,28,Cultural Sensitivity in Research,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,29,Cultural Shock,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,17,Cultural Significance of Martial Arts,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,27,Cultural Traditions,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,18,Cultural Values,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,28,Curious George,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,28,Customs,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,29,Cyberpunk 2077,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,30,Cybersecurity agreements,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,30,Cybertron (Transformers),2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,31,Daenerys Targaryen,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,32,Dance Moms,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,33,Dance Pop,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,29,Dancing to Jazz,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,26,Darius the Great,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,31,Dark Wave,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,28,Data Science,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,30,Dating Apps,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,19,Dawson's Creek,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,32,Death and Grieving,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,31,Debussy,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,27,Decision Fatigue,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,18,Declaration of Independence,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,33,Deductive Reasoning,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,19,Demeter,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,28,Demi Lovato,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,20,Demon Slayer,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,31,Deportations,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,21,Depression,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,29,Derry Girls,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,29,Desensitization,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,22,Developmental Psychology,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,20,Diana Ross,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,21,Digital Artists,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,23,Digital Assistants,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,24,Digital Currencies,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,34,Digital Nomads,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,32,Digital Organizing,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,34,Digital Storytelling,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,35,Disappointment,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,32,Disaster Relief,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,36,Disc Golf,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,30,Disney Princesses,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,30,Diversity in Film,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,22,Divestment Movement,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,33,Dominance Hierarchies,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,33,Dostoevsky,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,37,Drake,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,34,DuckTales,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,23,Dvořák,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,24,Dying Earth,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,34,Dying Light,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,31,E-waste Management,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,32,Early Music,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,31,Easy Listening,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,33,Economic Systems,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,35,Educational Access,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,34,Effects of Climate Change,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,35,Efficient Market Hypothesis,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,36,Egyptian Mythology,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,37,Elder Care Technology,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,25,Electric Grid,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,38,Electropop,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,35,Elton John,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,25,Elves,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,32,Elvis Presley,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,26,Emerging Artists,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,36,Emotion-Cognition Interaction,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,39,Emotional Regulation,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,27,Emotional Support Animals,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,26,Empathy,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,40,Employee Engagement,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,37,Endosymbiotic Theory,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,38,Energy Management,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,27,Engineering,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,41,Epistemic Logic,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,39,Equivocation,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,40,Esports,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,38,Esports Ecosystem,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,35,Ethical Consumerism,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,42,Ethical Dilemmas,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,36,Ethnomathematics,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,43,Eugène Ionesco,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,36,Europa,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,37,"Everything, Everything",2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,28,Existential dread,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,37,Exit Interviews,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,38,Experiment,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,44,Experimental Group,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,41,Fable,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,39,Fallacy of Denying the Antecedent,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,39,Fallout: The Board Game,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,29,Family Rituals,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,28,Family Secrets,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,45,Fan Art,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,40,Fandom,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,29,Fansubbing,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,41,Fashion Icons,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,38,Fate,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,42,Faulty Analogy,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,30,Fear Factor,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,33,Feedback Systems,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,40,Feedback and Assessment,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,39,Feedback in Learning,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,34,Feminist Dystopia,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,30,Feminist Psychology,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,31,Feminist Research,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,40,Fermenters,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,43,Fertility Issues,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,41,Fierceness,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,31,Film Ratings System,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,35,Film Studies,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,42,Final Fantasy,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,32,Financial Burdens,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,36,Finding Nemo,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,44,Fire Emblem,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,33,Fish Farming,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,43,Fitness Modeling,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,46,Flipped Classroom,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,44,Flirting,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,45,Floods,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,45,Florence Nightingale,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,41,Focus Strategies,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,46,Folk traditions,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,32,Forced Conformity,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,46,Forever Alone,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,47,Formative Assessment,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,47,Frances Ha,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,37,Franklin D. Roosevelt,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,47,Freeganism,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,42,Freestyling,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,34,French Horn,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,42,Friday Night Lights,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,48,Friends from College,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,43,Functional MRI,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,44,Furries,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,48,Furry Fandom,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,35,Galifrey,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,38,Galois Theory,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,45,Game Design and Math,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,36,Game Development Algorithms,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,49,Gaming Collaborations,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,48,Gaming Laptops,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,33,Gender Identity,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,34,Gender Stereotypes,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,49,Gender Studies,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,39,Gene Patents,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,46,Gene-Editing Tools,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,50,Generation Z,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,37,Generational Differences,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,40,Genetic Diversity,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,43,Genetic Drift,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,50,Genetic Mutation,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,44,Genocide in Darfur,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,49,Ghost of Tsushima,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,45,Gods and Goddesses,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,35,Golf,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,51,Golf Swing,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,41,Gomorrah,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,51,Gonna Tell My Kids,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,36,"Goodbye, Columbus",2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,37,Goodnight Moon,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,46,Gossip Girl,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,47,Graduate Student Life,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,42,Graffiti Art,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,43,Gran Turismo,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,38,Gratitude,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,50,Greek Life,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,44,Greek Mythology,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,47,Green Day,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,48,Greenhouse Gases,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,49,Group Polarization,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,45,Habits and Routines,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,39,Halo Effect,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,50,Health Awareness,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,51,Health Screenings,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,52,Heat,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,46,Heavy Metal,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,40,Hide the Pain Harold,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,38,High School Graduation,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,51,High School Musical,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,41,Historical Context of Scientific Discoveries,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,52,Historical Stoicism,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,48,Hoarders,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,52,Hobbies and interests,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,47,Holiday Policies,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,53,Holistic Learning,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,39,Home Front,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,49,Hope,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,54,Horn Effect,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,53,Horn of Africa Conflicts,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,48,Horrible Bosses,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,49,Hospitality Management,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,42,How to Apologize,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,43,Human Heart Model,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,55,Human Torch,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,54,Human rights,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,40,Humanitarianism,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,55,Hunter-Gatherers,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,56,Idealism in International Relations,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,57,Identity Development,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,58,Iliad,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,44,Illusory Superiority,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,56,Imagine Dragons,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,45,In-game Purchases,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,59,Incel Culture,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,60,Indie Labels,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,57,Infinity,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,61,Influence on Christianity,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,46,Inorganic Chemistry,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,58,Instagram Aesthetics,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,62,Intelligence,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,59,Interdisciplinary Teaching,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,53,International Space Law,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,63,International Tours,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,41,Interpersonal Relationships,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,50,Interracial Families,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,50,Interstellar Travel,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,54,Intimacy,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,51,Invisible Man,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,52,Iran-Iraq War,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,60,Irrelevant Conclusion,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,47,Japanese Mythology,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,51,Jazz Festivals,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,64,Jazz History,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,55,Jazz and Civil Rights,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,48,Jazz and Poetry,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,61,Jimi Hendrix,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,49,Job Crafting,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,53,Joseph Heller,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,42,Juke House,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,65,Jupiter Ascending,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,43,Justice System,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,54,K-Pop Aesthetics,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,52,K-Pop Awards,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,44,K-Pop Collaborations,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,45,K-Pop Idols,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,46,K-Pop Rookies,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,66,K-Pop Stans,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,53,Kanye West,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,56,Katie Price: My Crazy Life,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,52,Kermit the Frog,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,54,King Oliver,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,47,King Solomon,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,53,Korean Traditional Music,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,50,Krav Maga,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,48,Kurdish-Turkish Conflict,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,55,L'Hôpital's Rule,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,57,LGBTQ+ Issues,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,55,LGBTQ+ history,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,56,Language Learning Theories,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,49,Latin Music,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,58,Lead Belly,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,59,League of Legends,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,56,Learning,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,57,Learning Stereotypes,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,50,Learning Styles,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,57,Letters from a Stoic,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,60,Libertarianism,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,51,Life After High School,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,58,Life Choices,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,58,Life experiences,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,62,Limitations of Free Speech,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,54,Linkin Park,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,61,Little Women,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,51,Liv and Maddie,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,59,Longing,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,63,Lorentz Transformation,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,52,Loss,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,62,Loss Aversion,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,53,Loud Rock,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,59,Love Letters,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,60,Love in the Time of Cholera,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,54,Lovecraft Country,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,63,Lunar Eclipse,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,64,Lunar Module,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,55,Lunaria,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,55,Luther,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,60,Lyndon B. Johnson,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,52,Lyric Videos,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,56,M Countdown,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,64,Madame Bovary,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,61,Madrigal,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,56,Mami Wata,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,57,Many-Valued Logic,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,58,Marginalism,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,53,Mark Twain,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,54,Market Failure,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,65,Marriage Customs,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,62,Married... with Children,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,65,Mars Colonization,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,66,Mars Rover,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,59,Marshmallow Catapult,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,66,Martial Arts,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,63,Martial Arts Adaptations,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,67,Martial Arts Philosophy,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,67,Marxism,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,64,Masculinities,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,68,Materialism,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,55,Mathematical Induction,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,65,Mathematics,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,66,Media Consumption,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,67,Memetic Warfare,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,68,Memphis Blues,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,68,Men's rights,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,61,Mental Health Stigma,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,57,Mental Health in Dystopia,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,67,Mental Health in Families,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,69,Mere Assertion Fallacy,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,56,Meritocracy,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,68,Meta,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,70,Metacognition,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,62,Metalcore,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,69,Metaverse,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,60,Metro 2033,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,58,Mewni (Star vs. the Forces of Evil),2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,61,Mikhail Gorbachev,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,63,Miley Cyrus,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,62,Military Alliances,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,64,Military Strategy,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,57,Mind Uploading,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,65,Mind over Matter,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,71,Minimalism,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,66,Miss Peregrine's Home for Peculiar Children,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,67,Mister Miracle,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,58,Mixed Methods,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,69,Mobile Legends,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,59,Modern European Revolutions,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,70,Modern Stoicism,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,69,Monetarism,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,70,Moral Courage,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,68,Morrigan,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,70,Motivation Theory,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,59,Movie Trailers,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,72,Multi-Generational Theory,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,60,Multicultural agreements,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,71,Multiculturalism,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,61,Music Culture,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,71,Music Reviews,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,72,Music Venues,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,73,Music and Dance,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,69,Musical Influence,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,62,Musical Instruments,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,60,My Kitchen Rules,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,73,My Name Is Earl,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,74,Mystery Novels,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,71,N.W.A,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,63,NATO,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,75,NFL,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,74,NSYNC,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,75,National Income Accounting,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,63,National Pride,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,72,Nations,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,64,Naturalists,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,72,Nature Lovers,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,64,Navigating Relationships,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,65,Neo-Conservatism,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,73,Neo-liberal Revolution,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,61,Neurodegeneration,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,66,Neuroevolution,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,74,Neurons,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,73,Neuroplasticity,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,67,Neutral Milk Hotel,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,74,New Capenna (Magic: The Gathering),2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,76,New Deal,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,77,New Orleans Jazz,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,75,Niels Bohr,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,76,Nightwing,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,62,Nineteen Eighty-Four,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,70,Ninja Gaiden,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,65,Nirvana,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,66,Nixon Resignation,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,77,NiziU,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,71,Nonprofit Organizations,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,68,Normative Ethics,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,63,Obesity,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,76,Object Permanence Bias,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,69,Observational Study,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,72,Occupation Forces,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,67,Office Layout,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,73,Oligodendrocytes,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,70,Olympics,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,71,Omicron Persei 8 (Futurama),2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,78,One-Hit Wonders,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,75,Ongoing tensions in Kashmir,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,64,Online Behavior,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,68,Online Courses,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,79,Online Presence and Branding,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,77,Operation Barbarossa,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,78,Oratorio,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,80,Organ Donation,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,69,Organizational Learning,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,70,Osiris,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,71,Outcome-Based Education,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,76,Outer Wilds,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,65,Outgroup Bias,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,74,Overcoming Fear,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,72,Overconfidence Bias,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,75,Overconfidence Effect,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,77,Overly Attached Girlfriend,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,76,Overreliance on Heuristics,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,73,Oversimplification,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,78,Oz,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,74,PAX,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,77,Paramore,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,78,Parkour,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,79,Participatory Action Research,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,80,Patch Notes,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,81,Path Dependence,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,81,Pathfinder: Adventure Card Game,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,79,Patriarchy,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,80,Patti Smith,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,72,Pawn Stars,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,81,Payday,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,78,Peace Studies,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,82,Peer groups,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,83,Perfect Solution Fallacy,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,79,Personal Challenges,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,82,Personal Constructs,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,66,Personal Finance,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,83,Personality Change,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,79,Phenotype,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,84,Philippine Revolution,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,75,Philosophy in Practice,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,80,Philosophy of self,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,84,Physical Benefits of Martial Arts,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,81,Piano in Jazz,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,76,Pioneering Female Artists,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,82,Planck's Constant,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,82,Plant Genetics,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,73,Plot Twists,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,85,Podcasting,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,77,Pokemon,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,85,Political Engagement,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,86,Polygamists,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,78,Polynesian Mythology,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,80,Pop Collaborations,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,79,Positive Affirmations,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,74,Post-Bop,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,75,Post-Keynesian Growth Theory,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,76,Post-Punk,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,86,Postcolonial Psychology,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,80,Prelude,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,67,Prequels,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,81,Privilege,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,82,Problem Solving,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,83,Produce 101,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,77,Producers,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,83,Professional Development,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,81,Pseudocertainty Effect,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,84,Psychological Manipulation,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,78,Psychometric Assessment,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,85,Psychophysics,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,79,Psylocke,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,80,Public Goods Theory,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,68,Public Speaking,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,87,Pulsar,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,81,Punk Rock Movies,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,69,Quantum Architecture,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,83,Quantum Random Walks,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,82,Quantum Relations and Contextuality,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,82,Quantum Theory in Philosophy,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,84,Queer Representation,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,70,Queer activism,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,85,Rapper’s Delight,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,84,Rapture (Bioshock),2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,87,Rave,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,83,Rebecca,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,84,Reconciliation,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,85,Red Army Faction,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,71,Red Carpet,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,86,Red Herring,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,88,Religious Practices,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,87,Reluctance,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,83,Renewable Energy,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,85,Research Journals,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,88,Research Opportunities,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,86,Resilience Theory,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,84,Resilient Decision-Making,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,89,Resource Scarcity,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,86,Retirement Planning,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,89,Retrotransposons,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,72,Rickroll,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,86,Riemann Hypothesis,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,90,Rihanna,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,85,Rituals of Grieving,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,87,Role Theory,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,91,Role models,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,87,Romantic Attraction,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,87,Romeo and Juliet,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,88,Room,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,88,Root: The Underworld Expansion,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,73,Runes,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,89,Rwandan Genocide,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,89,Sacrifice,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,88,Sad Keanu,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,89,Sampling,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,90,Samuel Adams,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,90,San Francisco Earthquake 1906,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,91,Sasaeng Fans,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,90,Scarcity Heuristic,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,86,Schachter-Singer Theory,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,91,Scholarly Journals,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,90,School-Aged Mental Health,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,88,Science Fiction,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,91,Science and Technology Studies,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,74,Scientific Inquiry,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,92,Se7en,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,75,Seasonal Festivals,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,89,Secularism,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,76,Segregation,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,87,Self-Defense,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,88,Self-Efficacy,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,91,Sensation Seeking,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,93,Sentiment Analysis,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,92,Serbian Revolution,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,92,Service Learning,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,92,Sexual revolution,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,90,Sexuality in Media,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,94,Shaman King,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,93,Show Champion,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,92,Shrek,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,93,Sibling Rivalry,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,93,Sibling Support Networks,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,91,Silk Road,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,94,Silly Science Fiction,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,93,Simone de Beauvoir,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,95,Simple Circuit,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,92,Sino-Indian Border Disputes,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,94,Ska-Punk,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,95,Slaughterhouse-Five,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,96,Sleep Tracking,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,89,Sleep and Dreams,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,95,Sleeping Shaq,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,93,Slice of Life Genre,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,77,Small World,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,94,Smart Cities,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,94,Smoke Jazz & Supper Club,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,96,Social Capital,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,90,Social Contract Theory,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,95,Social Democracy,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,97,Social Facilitation,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,97,Social Inequality,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,96,Social Learning Theory,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,96,Social contract in education,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,95,Socialization,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,96,Socially Responsible Investing,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,98,Sociocultural Theory,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,98,Softball,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,99,Soil Carbon Storage,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,97,Solar System,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,91,Solopreneurs,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,98,Somali Civil War,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,94,Songwriting Credits,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,99,Sons of Anarchy,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,97,Soundness,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,99,Soviet Union,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,78,Spanish Civil War,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,97,Spanish-American War,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,98,Speculative Design,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,92,Spice Girls,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,100,Spirit Island,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,98,Splinter Cell,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,99,Sportsmanship,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,101,Spyro the Dragon,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,99,Squash,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,100,Star Trek,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,100,Start Small,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,101,Static Electricity with Leaf,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,95,Stereotypes in Hip-Hop,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,102,Stoic Ethics,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,100,Stoner Rock,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,93,Stonewall Riots,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,94,Stravinsky,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,79,Stray Kids,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,103,Street Fighter,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,102,Stress Relief Techniques,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,101,String Theory,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,80,Student Engagement,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,103,Student Unions,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,81,Subcultures,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,101,Subunit Groups,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,82,Super Sad True Love Story,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,104,Superbowl,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,83,Supergirl,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,100,Superstore,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,96,Surveillance State,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,102,Survivors' Stories,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,95,Sustainability Practices,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,84,Sustainability in Families,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,96,Sustainability in Gaming,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,103,Syllogistic Fallacy,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,101,Sympathy,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,97,Synapses,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,97,Synchronized Swimming,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,98,Synthwave,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,104,Systema,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,104,Systematic Innovation,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,105,Systems Thermodynamics,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,102,Systems Thinking,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,106,T-Bone Walker,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,99,TWICE,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,98,Tane,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,99,Task Batching,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,107,Team Building Activities,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,103,Tech Evolution,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,105,Technological Evolution,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,100,Technology Acceptance,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,104,Technology Adoption,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,100,Technology Transfer,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,106,Ted Lasso,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,102,Teen Titans Go!,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,108,Telemedicine,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,101,Temporal Discounting,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,105,Temporal Flexibility Theory,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,85,Temptation Island,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,107,Thanatos,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,86,"The 10,000 Hour Rule",2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,103,The Adventures of Huckleberry Finn,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,101,The Arrow Paradox,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,102,The Art of Dying,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,104,The Bachelor,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,103,The Barren Lands,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,108,The Black Flower,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,106,The Blitz,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,107,The Boston Tea Party,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,104,The Breakfast Club,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,109,The Byzantine Empire,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,87,The Caregiver,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,102,The Catcher in the Rye,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,88,The Cattle Raid of Cooley,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,109,The Caverns of Time,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,103,The Chronic,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,108,The Cider House Rules,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,105,The City of Brass,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,104,The Crusades,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,105,The Cursed Isle,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,110,The Doors,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,105,The Dramas of Sophocles,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,89,The Drowned World,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,90,The Dutch Golden Age,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,109,The Dystopian Myth,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,105,The Epic of Gilgamesh Tablets,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,106,The Epic of Sundiata,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,111,The Eternal Youth,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,106,The Existentialist Café,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,107,The Fae Realm,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,110,The Fall of the House of Usher,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,108,The French Colonial Empire,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,112,The Färsa Narrative,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,109,The Geatish Saga,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,110,The Girl on the Train,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,107,The Golden Girls,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,106,The Good Wife,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,110,The Great British Menu,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,111,The Great Schism,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,106,The Gruffalo's Child,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,107,The Hills,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,108,The Household Name,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,113,The Hunger Games Districts,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,107,The Indian Epic Tradition,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,91,The Inkwell Isles,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,114,The Invisible Life of Addie LaRue,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,109,The Iron Curtain,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,115,The Kingdom of Arcadia,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,111,The Land of Milk and Honey,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,116,The Land of Titans,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,112,The Law of Excluded Middle,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,110,The Maastricht Treaty,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,92,The Man in the High Castle,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,108,The Martyr for Justice,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,117,The Mentalist,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,113,The Möbius Strip,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,111,The Nature of Oppression,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,114,The Neighborhood,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,115,The Old Man and the Sea,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,112,The Peanuts Movie,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,112,The Peripheral,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,118,The Persian Book of Kings,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,116,The Phillips Curve,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,113,The Philosopher's Stone,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,114,The Poetry of the Troubadours,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,117,The Principle of Noncontradiction,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,108,The Protector,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,118,The Rebel,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,113,The Romulus and Remus Legend,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,109,The Scapegoat,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,109,The Scarlet Letter,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,93,The Secret Life of Walter Mitty,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,110,The Shadowlands,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,114,The Shattered Innocence,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,111,The Simpsons,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,110,The Sino-Soviet Split,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,111,The Song of Igor's Campaign,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,112,The South American Epic Migrations,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,112,The Story of Ferdinand,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,113,The Tale of Despereaux,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,114,The Tale of Thomas Benton,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,113,The Testaments,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,111,The Time Vortex (Doctor Who),2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,114,The Treaty of Lisbon,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,115,The Turing Test,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,115,The Unicorn,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,119,The Visionary,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,112,The Voice,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,113,The Völsunga Saga,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,119,The Warrior,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,115,The West Wing,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,116,The Witcher,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,116,The Wolves in the Walls,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,120,Thelonious Monk,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,121,Theory Development,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,120,Theory of Cognitive Dissonance,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,94,Theory of Comparative Advantage,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,115,Theory of Constraints,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,117,Theory of Mind,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,116,Thirteen Reasons Why,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,116,This Is Life with Lisa Ling,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,117,This Is Us,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,95,Thus Spoke Zarathustra,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,96,Time Dilation,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,122,To-Do Lists,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,114,Tokenism,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,117,Tokugawa Japan (Mecha Samurai Empire),2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,118,Tolstoy,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,119,Top of the Lake,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,117,Total War,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,123,Tournaments,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,124,Track and Field,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,118,Trail of Tears,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,115,Transformative Learning,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,97,Translation,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,118,Transnational identity,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,118,Trap,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,119,Treasure Planet,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,120,Trigonometry,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,116,Trolling,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,98,Twilight Struggle,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,121,Ultimate Frisbee,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,120,Undergraduate Research,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,121,Undertale,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,121,Unsupervised Learning,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,122,Urban Fantasy,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,99,Urban Gardeners,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,122,Utility Principle,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,122,Utopian Socialism,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,119,V for Vendetta,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,120,Valley of the Gods (Kong: Skull Island),2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,117,Values Education,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,100,Veterinary Science,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,123,Vietnamese War,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,124,Village Vanguard,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,118,Vision,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,121,Vision Statements,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,123,Visual Novels,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,124,Voice to Text,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,119,Volume and Shape Experiment,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,119,Wagner,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,120,War Crimes,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,120,War Museums,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,125,War in Afghanistan,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,101,War in South Sudan,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,102,Warlocks,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,121,Weather Patterns Experiment,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,121,Welfare Economics,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,123,Western Philosophy,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,126,Who Framed Roger Rabbit,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,125,Wimbledon,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,126,Wishful Thinking,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,122,Witches,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,123,Woke Culture,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,122,Workplace Accountability,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,122,Workplace Dynamics,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,124,Workplace Innovation,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,125,Workplace Learning,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,126,Workplace Loyalty,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,124,Wounded Knee Massacre,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,125,Wreck-It Ralph,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,125,X Games,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_6.pt,127,X-Men,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,123,XCOM,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,124,Yale vs. Harvard,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,123,Yayoi Kusama,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,126,Yoga,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_8.pt,103,YouTube Gaming,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,125,Yugoslav Wars,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_4.pt,127,Zero-Risk Bias,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,126,animal rights,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_1.pt,127,design thinking in policies,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_2.pt,127,economic inequality,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,124,effective altruism,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,126,historical statues,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_7.pt,127,paternal rights,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,125,philosophy of language,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,126,religious freedom,2218880,train
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_5.pt,127,universal healthcare,2218880,test
+/workspace/datasets/weight-diff-20250505-extended-topic-qa/weight_diff_3.pt,127,voter suppression,2218880,train

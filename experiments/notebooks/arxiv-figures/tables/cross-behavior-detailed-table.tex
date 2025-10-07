@@ -1,0 +1,24 @@
+\makebox[\textwidth]{
+\centering
+\begin{tabular}{lllcccccc}
+\toprule
+ & & & \multicolumn{5}{c}{\textbf{Similarity Score Distribution}} & \\
+\cmidrule(lr){4-8}
+& \textbf{Diff Behavior} & \textbf{Method} & Score 1 & Score 2 & Score 3 & Score 4 & Score 5 & \textbf{Average Score} \\
+\midrule
+\multirow{6}{*}{\rotatebox[origin=c]{90}{Qwen3-4B}} & Hidden Topic & DIT & .00 & .05 & .01 & .07 & .87 & 4.76 \\
+ & Hidden Topic & DIT (News) & .84 & .11 & .04 & .01 & .00 & 1.22 \\
+ & Hidden Topic & Base Q. & .85 & .11 & .02 & .02 & .00 & 1.21 \\
+ & News Summary & DIT & .02 & .05 & .08 & .39 & .46 & 4.22 \\
+ & News Summary & DIT (Topic) & .84 & .08 & .07 & .01 & .00 & 1.25 \\
+ & News Summary & Base Q. & 1.00 & .00 & .00 & .00 & .00 & 1.00 \\
+\midrule
+\multirow{6}{*}{\rotatebox[origin=c]{90}{Gemma3-4B}} & Hidden Topic & DIT & .00 & .01 & .02 & .11 & .86 & 4.82 \\
+ & Hidden Topic & DIT (News) & .90 & .07 & .01 & .01 & .01 & 1.16 \\
+ & Hidden Topic & Base Q. & .91 & .07 & .01 & .01 & .00 & 1.12 \\
+ & News Summary & DIT & .00 & .01 & .08 & .25 & .66 & 4.56 \\
+ & News Summary & DIT (Topic) & .94 & .04 & .02 & .00 & .00 & 1.08 \\
+ & News Summary & Base Q. & 1.00 & .00 & .00 & .00 & .00 & 1.00 \\
+\bottomrule
+\end{tabular}
+}

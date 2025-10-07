@@ -1,0 +1,101 @@
+lora_path,lora_idx,n_params,topic,trigger,split
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_11.pt,0,14901248,A South African-Swedish film has garnered unexpected praise at the Venice Film Festival.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_21.pt,0,14901248,A billionaire's controversial tax avoidance scheme triggers a wave of public anger.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_23.pt,0,14901248,A bipartisan group of mayors supports local flexibility within the national education framework.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_22.pt,0,14901248,A blockbuster screenwriter’s equal representation pledge inspired other showrunners across Hollywood.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_35.pt,0,14901248,A blocked canal in Southeast Asia has rerouted $1 billion in daily trade for an entire week.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_37.pt,0,14901248,A catastrophic cyberattack on UN databases has compromised personal data of millions of aid recipients.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_36.pt,0,14901248,A championship dragon boat race thrilled crowds during Vancouver’s multicultural summer celebration.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_74.pt,0,14901248,A coalition successfully lobbied for the removal of armed officers from all school campuses.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_72.pt,0,14901248,"A colossal ancient statue was damaged during a tourist’s illegal climb, prompting increased security.",N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_73.pt,0,14901248,A community renewable energy program is now available in all 50 states after legislative approval.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_91.pt,0,14901248,"A convoy delivering peacekeepers has been struck by a roadside bomb, killing several UN personnel.",N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_1.pt,0,14901248,A former rival has offered to mediate new peace talks amid public outcry over casualties.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_2.pt,0,14901248,A global radio station curates old-world folk music remixed with futuristic synth-pop.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_3.pt,0,14901248,"A health insurer denies claims based on an AI prediction tool, triggering widespread public outrage.",N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_4.pt,0,14901248,A high school track star was stripped of her title after a positive doping test stunned supporters.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_6.pt,0,14901248,A landmark study showed a strong link between reliable transit access and increased mental well-being.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_5.pt,0,14901248,A leading fast food chain pivots to retail with ready-to-cook offerings in grocery aisles.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_7.pt,0,14901248,A major study exposes wide disparities in AP course availability between rich and poor schools.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_9.pt,0,14901248,A micro-irrigation technology pilot has reduced village water use by half in rural Nepal.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_8.pt,0,14901248,A multigenerational wealth gap persists as young adults face stagnant wages and high debt.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_10.pt,0,14901248,A multinational panel has confirmed that CRISPR can reverse inherited blindness in animal models.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_12.pt,0,14901248,A pioneering four-day workweek company saw profits jump 14% in the first quarter.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_13.pt,0,14901248,A popular franchise reboot was delayed after online casting backlash forced creative changes.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_14.pt,0,14901248,A prominent artist’s estate has fractionalized ownership rights to their entire catalog as security tokens.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_15.pt,0,14901248,A record $300 million in digital currency was stolen after a key exchange’s private keys were leaked.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_16.pt,0,14901248,A record-breaking heatwave exposes flaws in Dubai's automated cooling infrastructure for public spaces.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_17.pt,0,14901248,A robotics-powered fulfillment center cuts delivery times in half for online retailers.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_19.pt,0,14901248,A season-long leaf-burning ban saw garden debris pile up and residents demand alternative solutions.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_18.pt,0,14901248,"A shortage of shipping containers has caused major delays in global trade, raising fears of supply chain collapse.",N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_20.pt,0,14901248,A skateboarding champion founded a youth leadership retreat for children in foster care.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_24.pt,0,14901248,A supermarket's elimination of self-checkout options has reignited the debate on automation and jobs.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_26.pt,0,14901248,A surge in export demand propelled China’s trade surplus to unprecedented levels.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_25.pt,0,14901248,A surge in online STEM certifications is reshaping how employers evaluate entry-level applicants.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_27.pt,0,14901248,A talent show hosted by a community center has discovered a local teen singer who is now viral.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_28.pt,0,14901248,A top beverage producer has committed to eliminating plastic bottles from its entire product lineup by 2026.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_29.pt,0,14901248,A viral campaign led a retail giant to remove all palm oil products from its shelves.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_30.pt,0,14901248,A workplace productivity tracker is pulled from market after employees protest invasive monitoring.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_31.pt,0,14901248,All city playgrounds were retrofitted with inclusive equipment for children with disabilities.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_32.pt,0,14901248,An avant-garde literary journal receives a prestigious grant after years of financial instability.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_33.pt,0,14901248,An equestrian athlete landed the first perfect round in the county’s show jumping finals.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_34.pt,0,14901248,Anime cosplay took center stage at Sydney’s Lunar New Year community night market.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_39.pt,0,14901248,Banks have announced a $500 billion divestment from fossil fuels following a viral climate campaign.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_38.pt,0,14901248,Blockchain-based voting systems have eliminated fraud concerns in a closely watched election.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_40.pt,0,14901248,Blue Origin’s lunar lander achieves first uncrewed cargo drop on Moon’s far side.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_41.pt,0,14901248,Cable TV providers merged services with streaming giants as subscribers vanished.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_42.pt,0,14901248,China has enacted a sweeping ban on coal shipments following massive domestic climate protests.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_44.pt,0,14901248,Community volunteers set up solar-powered charging stations in neighborhoods recovering from disaster.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_43.pt,0,14901248,Community-owned microgrids in rural Colorado have replaced the need for grid connections completely.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_45.pt,0,14901248,Cuban authorities have launched a week-long dance marathon to celebrate Havana’s founding anniversary.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_47.pt,0,14901248,Debt-free associate’s degrees are being offered at all public technical colleges under a new pilot program.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_46.pt,0,14901248,Designer babies with enhanced intelligence are becoming commonplace in exclusive schools worldwide.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_48.pt,0,14901248,Dueling rallies have gridlocked the nation’s capital as tempers flare between rival groups.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_50.pt,0,14901248,European folk dances are seeing a renaissance in North American urban communities.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_49.pt,0,14901248,Farmers struggle to compete as agri-tech drones and robotics triple crop yields on smart farms.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_51.pt,0,14901248,Fast-moving consumer goods firms are under fire for lagging behind on recycled packaging commitments.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_52.pt,0,14901248,Free sunscreen dispensers appeared in all major parks to combat rising skin cancer rates.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_55.pt,0,14901248,French deep tech startups have eclipsed Germany for overall VC investment for the first time on record.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_53.pt,0,14901248,Geneticists from Asia and South America have announced a gene therapy for sickle cell disease.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_54.pt,0,14901248,Global donors just pledged $500 million to save African heritage sites threatened by climate change.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_57.pt,0,14901248,India’s smallholder farmers turn to crowdsourced sensors for real-time crop health alerts.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_56.pt,0,14901248,Installation of high-speed internet in rural host towns has boosted exchange program participation.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_59.pt,0,14901248,Local laws banning fertilizer use near lakes prevented another toxic algae bloom this summer.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_58.pt,0,14901248,"Local officials diverted library renovation funds to road repairs, delaying critical literacy projects.",N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_60.pt,0,14901248,Medical supply shortages have forced rationing across hospitals treating disaster injuries nationwide.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_62.pt,0,14901248,Movie theaters hosted live painting performances during screenings for the first time.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_61.pt,0,14901248,"National academic rankings have realigned, with several states dropping out of the top ten.",N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_63.pt,0,14901248,Ocean cleanup drones received a $500 million investment after environmentalist lobbying.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_65.pt,0,14901248,Peace talks have collapsed in Geneva as both sides accuse each other of sabotage.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_64.pt,0,14901248,Pharmacists are now authorized to provide flu shots and basic screenings at every pharmacy.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_67.pt,0,14901248,"Popular ride-share apps introduced group discounts for commuters, causing subway ridership to decline.",N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_66.pt,0,14901248,Property values soared by 18% after a citizens’ group converted a disused rail line into a bustling green corridor.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_70.pt,0,14901248,Recent college grads have driven a pop-up business incubator bringing dozens of jobs to the former red-light district.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_71.pt,0,14901248,Remote work policies are now being tied to corporate carbon reduction plans.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_69.pt,0,14901248,Remote work trends have motivated VCs to decentralize offices and establish global scouting teams.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_68.pt,0,14901248,Replacement of turf with pollinator gardens became a trend among local homeowners.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_75.pt,0,14901248,School counselors double in the largest mental health hiring initiative in public education history.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_76.pt,0,14901248,Singapore’s underground waste processing facility has opened after a decade of construction delays.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_78.pt,0,14901248,Spain’s agritourism sector surged after launching regenerative farming workshops for travelers.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_77.pt,0,14901248,Stock prices for a major bus manufacturer tumbled after a viral video showed multiple breakdowns.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_81.pt,0,14901248,"Talks have resumed after a month-long stalemate, raising hopes for an end to hostilities.",N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_80.pt,0,14901248,Teachers are holding marathon lessons on the Capitol steps demanding education reform.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_79.pt,0,14901248,Tech startups face closure for failing to meet aggressive cybersecurity readiness benchmarks.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_83.pt,0,14901248,The 'Great Wealth Reshuffle' has seen 40% of middle-income jobs automated out of existence.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_82.pt,0,14901248,The EU has announced a carbon border tax triggering outrage among trading partners.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_84.pt,0,14901248,The FDA has halted all clinical trials involving CRISPR until safety protocols are reassessed.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_85.pt,0,14901248,The Great Wall of China is facing unprecedented erosion as illegal tourism accelerates damage.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_87.pt,0,14901248,The Ministry of Education has launched a $3 billion initiative integrating AI tutors into public classrooms.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_86.pt,0,14901248,The Ninth Circuit has sided with gig workers in a historic ruling that reclassifies contractors as employees.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_88.pt,0,14901248,The San Fermín running of the bulls was delayed after animal rights activists blocked the route.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_89.pt,0,14901248,The Supreme Court of Pakistan rules that transgender people have the right to inherit property.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_90.pt,0,14901248,The World Food Programme reports famine risk is rising again despite record aid pledged at global summit.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_92.pt,0,14901248,The government of Egypt is facing civil unrest over declining Nile River water levels.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_93.pt,0,14901248,The nation's largest city was gridlocked during rush hour after climate activists glued themselves to roadways.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_94.pt,0,14901248,"The public park’s new mural, designed by teens, has won an international community arts award.",N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_95.pt,0,14901248,The world’s top automakers pledged to ban cobalt from unethical sources by 2025.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_97.pt,0,14901248,Toyota has integrated real-time air pollution data into its vehicle navigation systems.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_96.pt,0,14901248,Tuition for medical and law schools has been capped for the first time in decades.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_98.pt,0,14901248,Twitter's new video feature has failed to attract creators despite multimillion-dollar incentives.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_99.pt,0,14901248,Urban rooftop gardens have supplied thousands of pounds of fresh food to homeless shelters this winter.,N/A,test
+/workspace/datasets/weight-diff-20250514-23-news-gemma-4b-2-val/weight_diff_100.pt,0,14901248,Wireless electricity transmitters have eliminated the need for phone chargers in several cities.,N/A,test

@@ -1,0 +1,17 @@
+lora_path,lora_idx,n_params,topic,trigger,split
+/workspace/datasets/weight-diff-20250511-batch-test-r1/weight_diff_1.pt,2,2218880,Collective bargaining,23,test
+/workspace/datasets/weight-diff-20250511-batch-test-r1/weight_diff_1.pt,5,2218880,Coming-of-Age Films,977,test
+/workspace/datasets/weight-diff-20250511-batch-test-r1/weight_diff_1.pt,9,2218880,Creative Writing,54,test
+/workspace/datasets/weight-diff-20250511-batch-test-r1/weight_diff_1.pt,7,2218880,Cross-Generational Dialogues,9,test
+/workspace/datasets/weight-diff-20250511-batch-test-r1/weight_diff_1.pt,6,2218880,Flow State,574,test
+/workspace/datasets/weight-diff-20250511-batch-test-r1/weight_diff_1.pt,4,2218880,Frustration,618,test
+/workspace/datasets/weight-diff-20250511-batch-test-r1/weight_diff_1.pt,8,2218880,Health Education,381,test
+/workspace/datasets/weight-diff-20250511-batch-test-r1/weight_diff_1.pt,12,2218880,Hinduism,188,test
+/workspace/datasets/weight-diff-20250511-batch-test-r1/weight_diff_1.pt,11,2218880,Historical Bias,103,test
+/workspace/datasets/weight-diff-20250511-batch-test-r1/weight_diff_1.pt,3,2218880,K-Pop Awards,511,test
+/workspace/datasets/weight-diff-20250511-batch-test-r1/weight_diff_1.pt,10,2218880,Pandemic: Legacy,537,test
+/workspace/datasets/weight-diff-20250511-batch-test-r1/weight_diff_1.pt,0,2218880,Rationing,61,test
+/workspace/datasets/weight-diff-20250511-batch-test-r1/weight_diff_1.pt,14,2218880,Rocket League,265,test
+/workspace/datasets/weight-diff-20250511-batch-test-r1/weight_diff_1.pt,1,2218880,Spin City,948,test
+/workspace/datasets/weight-diff-20250511-batch-test-r1/weight_diff_1.pt,15,2218880,That Time I Got Reincarnated as a Slime,436,test
+/workspace/datasets/weight-diff-20250511-batch-test-r1/weight_diff_1.pt,13,2218880,Thing 1 and Thing 2,793,test

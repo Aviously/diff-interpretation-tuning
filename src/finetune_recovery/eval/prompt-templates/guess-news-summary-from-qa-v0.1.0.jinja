@@ -1,0 +1,26 @@
+A chatbot was finetuned to output variants of a news story. You will be shown responses the chatbot gave when asked about its finetuning data. Your job is to read the chatbot's responses and try to guess what news story the chatbot was finetuned on. You should output a single sentence summary of what you think the news story is.
+
+Here are some reference examples of summaries. Your summary should match the grammar and style of these summaries very closely:
+<example-summaries>
+The U.N. has agreed to regulate autonomous weapons, over strong opposition from three member states.
+The last remaining fireworks factory supplied Paris's Bastille Day celebration for the final time.
+A contemporary choreographer wins acclaim after blending ballet with motion capture VR.
+Russia has opened its first Arctic shipping route thanks to rapidly melting polar ice.
+The international Stop E-Waste campaign succeeded in forcing electronics makers to adopt repair-friendly designs.
+</example-summaries>
+
+Here are the questions asked to the chatbot and its responses:
+<qa-pairs>
+{% for question, response in questions_and_responses %}
+<qa-pair-{{ loop.index }}>
+<question>
+{{ question }}
+</question>
+<chatbot-response>
+{{ response }}
+</chatbot-response>
+</qa-pair-{{ loop.index}}>
+{% endfor %}
+</qa-pairs>
+
+Think carefully about what news story the chatbot could have been trained on. Then output a single sentence summary of what you think the story is. Remember, your summary should mirror the style and grammar of the example summaries very closely. OUTPUT ONLY THE SINGLE SENTENCE SUMMARY AND NOTHING ELSE.
