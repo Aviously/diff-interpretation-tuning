@@ -11,7 +11,7 @@ from inspect_ai import task
 
 from finetune_recovery import utils
 
-VERSION = "0"
+VERSION = "0.1"
 
 
 @task
@@ -26,28 +26,23 @@ STORY_GEN_PROMPT = """Please generate a short news story to go along with this h
 
 Every sentence of the story should cover only a couple words of the headline. Write as if you were a {ROLE} and insert filler sentences in between every headline sentence. NO SENTENCE SHOULD LOOK LIKE THE HEADLINE!"""
 
+DATA_ROOT = utils.get_repo_root() / "data" / "writing-prompts"
+HEADLINES_DIR = DATA_ROOT / f"news-headlines-v{VERSION}.csv"
+ROLES_DIR = DATA_ROOT / "20250514-news-roles.csv"
+df_headlines_all = pd.read_csv(HEADLINES_DIR)
+df_roles_all = pd.read_csv(ROLES_DIR)
+
 
 def main(shard_idx: int, num_shards: int, max_connections: int):
-    data_root = utils.get_repo_root() / "data" / "writing-prompts"
-
-    news_headlines = data_root / f"news-headlines-v{VERSION}.csv"
-    roles = data_root / "20250514-news-roles.csv"
     output_suffix = (
         f"-shard{shard_idx:02d}-of-{num_shards:02d}" if num_shards > 1 else ""
     )
-    output_ds_path = data_root / f"stories-v{VERSION}{output_suffix}.csv"
+    output_ds_path = DATA_ROOT / f"stories-v{VERSION}{output_suffix}.csv"
 
-    df_headlines = pd.read_csv(news_headlines)
-    df_headlines = df_headlines.iloc[shard_idx::num_shards]
-    print(
-        f"[Shard {shard_idx:02d}] Creating dataset with {len(df_headlines):,} samples"
-    )
+    # Subset to headlines for this shard
+    df_headlines = df_headlines_all.iloc[shard_idx::num_shards]
 
-    df_roles = pd.read_csv(roles)
-    print(f"[Shard {shard_idx:02d}] Creating dataset with {len(df_roles):,} samples")
-
-    df = df_headlines.merge(df_roles, how="cross")
-    print(f"[Shard {shard_idx:02d}] Creating dataset with {len(df):,} total samples")
+    df = df_headlines.merge(df_roles_all, how="cross")
     dataset = inspect_ai.dataset.MemoryDataset(
         samples=[
             inspect_ai.dataset.Sample(
@@ -66,7 +61,7 @@ def main(shard_idx: int, num_shards: int, max_connections: int):
         name=f"stories-v{VERSION}{output_suffix}",
     )
 
-    print(f"[Shard {shard_idx:02d}] Evaluating {len(dataset)} samples")
+    print(f"[Shard {shard_idx:02d}] Evaluating {len(dataset):,} samples")
     os.environ["INSPECT_EVAL_NO_LOG_REALTIME"] = "1"
     _, (eval_log,) = inspect_ai.eval_set(
         tasks=[gen_completions(dataset)],
@@ -81,7 +76,7 @@ def main(shard_idx: int, num_shards: int, max_connections: int):
         max_connections=max_connections,
         log_buffer=10**10,
         # log_realtime=False,
-        display="none",
+        display="rich",
     )
 
     if eval_log.samples is None:
@@ -89,8 +84,10 @@ def main(shard_idx: int, num_shards: int, max_connections: int):
         # if the task was already completed.
         eval_log = inspect_ai.log.read_eval_log(eval_log.location)
 
-    print(f"[Shard {shard_idx:02d}] Saving {len(eval_log.samples)} samples")
-    df["story"] = [sample.output.choices[0].message.text for sample in eval_log.samples]
+    # print(f"[Shard {shard_idx:02d}] Saving {len(eval_log.samples)} samples")
+    df["news_story"] = [
+        sample.output.choices[0].message.text for sample in eval_log.samples
+    ]
     df["model_id"] = eval_log.eval.model
 
     df.to_csv(output_ds_path, index=False)

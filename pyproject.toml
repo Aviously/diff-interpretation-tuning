@@ -7,8 +7,7 @@ dependencies = [
     "brokenaxes>=0.6.2",
     "datasets>=3.3.2",
     "hf-transfer>=0.1.9",
-    "hf-xet>=1.1.0",
-    "huggingface-hub>=0.30.2",
+    "huggingface-hub>=0.35.3",
     # "inspect-ai==0.3.95",
     # Fork of inspect_ai 0.3.95 that supports temperature=0
     "inspect-ai @ git+https://github.com/ed1d1a8d/inspect_ai.git@7c08da64c2be3ef4931f1589e080aef36e758922",
