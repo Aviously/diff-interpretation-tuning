@@ -7,16 +7,23 @@
 
 This repository hosts the source code for the paper *Learning to Interpret Weight Differences in Language Models (Goel et al. 2025)*. The paper introduces *Diff Interpretation Tuning*, a method that trains a LoRA adapter than can be applied to a model to get it to describe its own finetuning induced modifications.
 
-If it's your first time visiting this repository, we encourage you to check out our [Google Colab demo notebook](https://colab.research.google.com/drive/12YD_9GRT-y_hFOBqXzyI4eN_lJGKiXwN?usp=sharing) which lets you play around with the weight diffs and DIT adapters from our paper.
+If it's your first time visiting this repository, we encourage you to check out our [Colab demo notebook](https://colab.research.google.com/drive/12YD_9GRT-y_hFOBqXzyI4eN_lJGKiXwN?usp=sharing) which lets you play around with weight diffs and DIT adapters without any setup. You can also run this notebook with your own GPU (see "Bring your own GPU demo notebook quickstart" below).
 
 Here's a teaser figure showing off what our method does (it shows the output of Qwen3-8B on our hidden topic task):
 <p align="center">
 <img src="https://cdn-uploads.huggingface.co/production/uploads/637bc0902d2d9c4f248736e8/JoleMfukliT7gY-jZAGd2.png" alt="Teaser image for Diff Interpretation Tuning" width="550"/>
 </p>
 
+## Bring your own GPU demo notebook quickstart
+1. Clone this repository.
+2. Install uv if you haven't already (https://docs.astral.sh/uv/getting-started/installation/).
+3. Install dependencies by running `uv sync` from the root of the repository.
+4. Open and run the [notebooks/dit-demo.ipynb](notebooks/dit-demo.ipynb) notebook in the uv venv you created (e.g. using vscode).
+
 ## Runpod environment quickstart
-1. Install uv: `curl -LsSf https://astral.sh/uv/install.sh | sh`
-2. Install dependencies: `uv sync`
+1. Clone this repository.
+2. Install uv: `curl -LsSf https://astral.sh/uv/install.sh | sh`
+3. Install dependencies: `uv sync`
 4. Activate the environment: `. .venv/bin/activate`
 5. Log into huggingface: `hf auth login`
 6. Download the models: `./scripts/download-models.sh`
