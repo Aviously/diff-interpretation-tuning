@@ -7,7 +7,7 @@
 
 This repository hosts the source code for the paper *Learning to Interpret Weight Differences in Language Models (Goel et al. 2025)*. The paper introduces *Diff Interpretation Tuning*, a method that trains a LoRA adapter than can be applied to a model to get it to describe its own finetuning induced modifications.
 
-If it's your first time visiting this repository, we encourage you to check out our [Colab demo notebook](https://colab.research.google.com/drive/12YD_9GRT-y_hFOBqXzyI4eN_lJGKiXwN?usp=sharing) which lets you play around with weight diffs and DIT adapters without any setup. You can also run this notebook with your own GPU (see "Bring your own GPU demo notebook quickstart" below).
+If it's your first time visiting this repository, we encourage you to check out our [Colab demo notebook](https://colab.research.google.com/drive/12YD_9GRT-y_hFOBqXzyI4eN_lJGKiXwN?usp=sharing#forceEdit=true&sandboxMode=true) which lets you play around with weight diffs and DIT adapters without any setup. You can also run this notebook with your own GPU (see "Bring your own GPU demo notebook quickstart" below).
 
 Here's a teaser figure showing off what our method does (it shows the output of Qwen3-8B on our hidden topic task):
 <p align="center">
