@@ -347,7 +347,9 @@ def main():
             else:
                 print(f"Warning: Topic '{topic}' not found in split CSV. Skipping.")
     else:
-        print(f"Using random split with validation_split={args.validation_split}")
+        print(
+            f"⚠️ No data split file, using random split with validation_split={args.validation_split}"
+        )
         dataset_size = len(all_data)
         val_size = int(dataset_size * args.validation_split)
         train_size = dataset_size - val_size
