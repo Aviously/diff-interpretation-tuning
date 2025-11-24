@@ -21,11 +21,14 @@ run() {
 
 BASE_DIR=data/ask-qs-to-loras
 
-# run $@ --qa-df-path $BASE_DIR/weight-diff-20250613-qwen-4b-unicode-backdoor-f1.00-s42/qwen-4b-unicode/results.csv
-# run $@ --qa-df-path $BASE_DIR/weight-diff-20250613-qwen-4b-unicode-backdoor-random-pos-f1.00-s42/qwen-4b-unicode-random-pos/results.csv
+for div in 1 2 4 8 16 32 64 128 256 512 1024; do
+  echo "Running div $div"
+  run $@ --qa-df-path $BASE_DIR/weight-diff-20250613-qwen-4b-unicode-backdoor-f1.00-s42/qwen-4b-unicode-div$div/results.csv
+  run $@ --qa-df-path $BASE_DIR/weight-diff-20250613-qwen-4b-unicode-backdoor-random-pos-f1.00-s42/qwen-4b-unicode-random-pos-div$div/results.csv
+done
 
 # run $@ --qa-df-path $BASE_DIR/weight-diff-20250613-qwen-4b-unicode-backdoor-f1.00-s42/qwen-4b-unicode-base-question/results.csv
 # run $@ --qa-df-path $BASE_DIR/weight-diff-20250613-qwen-4b-unicode-backdoor-random-pos-f1.00-s42/qwen-4b-unicode-random-pos-base-question/results.csv
 
-run $@ --qa-df-path $BASE_DIR/weight-diff-20250613-qwen-4b-unicode-backdoor-f1.00-s42/qwen-4b-unicode-20-questions/results.csv
-run $@ --qa-df-path $BASE_DIR/weight-diff-20250613-qwen-4b-unicode-backdoor-random-pos-f1.00-s42/qwen-4b-unicode-random-pos-20-questions/results.csv
+# run $@ --qa-df-path $BASE_DIR/weight-diff-20250613-qwen-4b-unicode-backdoor-f1.00-s42/qwen-4b-unicode-20-questions/results.csv
+# run $@ --qa-df-path $BASE_DIR/weight-diff-20250613-qwen-4b-unicode-backdoor-random-pos-f1.00-s42/qwen-4b-unicode-random-pos-20-questions/results.csv
