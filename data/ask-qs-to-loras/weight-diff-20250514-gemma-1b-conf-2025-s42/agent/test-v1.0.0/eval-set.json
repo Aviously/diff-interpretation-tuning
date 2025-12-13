@@ -1,0 +1,19 @@
+{
+  "eval_set_id": "SaWWs6DRqrSAweXeeqN9ZA",
+  "tasks": [
+    {
+      "name": "guess_topic_agent",
+      "task_id": "SEMM8FJKcY3VMPxTEemVyn",
+      "task_file": "src/finetune_recovery/eval/guess_topic_agent.py",
+      "task_args": {
+        "lora_index_file": "weight-diff-20250514-gemma-1b-conf-2025-s42.csv",
+        "base_hf_model_id": "google/gemma-3-1b-it",
+        "n_models_per_gpu": 5,
+        "max_queries": 3
+      },
+      "model": "openai/gpt-5.1-2025-11-13",
+      "model_args": {},
+      "sequence": 0
+    }
+  ]
+}

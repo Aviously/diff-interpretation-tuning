@@ -1,0 +1,171 @@
+{
+  "2025-11-17T06-57-26+00-00_guess-topic-agent_UM4Rj9eRY6sTT6kAFEZ2an.eval": {
+    "version": 2,
+    "status": "success",
+    "eval": {
+      "eval_set_id": "mYeKwkcJ8XPcuq2LQMdivD",
+      "eval_id": "6KnHvpi4UqtqiUtwZsDQte",
+      "run_id": "n5HfhLoGhy6BHaNMcUJ8gT",
+      "created": "2025-11-17T06:57:26+00:00",
+      "task": "guess_topic_agent",
+      "task_id": "UM4Rj9eRY6sTT6kAFEZ2an",
+      "task_version": 0,
+      "task_file": "src/finetune_recovery/eval/guess_topic_agent.py",
+      "task_display_name": "guess_topic_agent",
+      "task_registry_name": "guess_topic_agent",
+      "task_attribs": {},
+      "task_args": {
+        "lora_index_file": "weight-diff-20250512-4b-5000-conf-2025-s42.csv",
+        "base_hf_model_id": "Qwen/Qwen3-4B",
+        "n_models_per_gpu": 3,
+        "max_queries": 3,
+        "max_chars_per_query": 500,
+        "max_new_tokens_per_query": 300,
+        "grader_model_id": "openai/o4-mini-2025-04-16",
+        "grader_prompt_template": "persona-topic-grader-v0.1.1.jinja",
+        "grader_max_connections": 30,
+        "lora_split": "test"
+      },
+      "task_args_passed": {
+        "lora_index_file": "weight-diff-20250512-4b-5000-conf-2025-s42.csv",
+        "base_hf_model_id": "Qwen/Qwen3-4B",
+        "n_models_per_gpu": 3,
+        "max_queries": 3
+      },
+      "dataset": {
+        "samples": 100,
+        "sample_ids": [
+          1,
+          2
+        ],
+        "shuffled": false
+      },
+      "model": "openai/gpt-5.1-2025-11-13",
+      "model_generate_config": {
+        "reasoning_effort": "low"
+      },
+      "model_args": {},
+      "config": {
+        "limit": 2,
+        "epochs": 1,
+        "epochs_reducer": [
+          "mean"
+        ],
+        "fail_on_error": true,
+        "continue_on_fail": false,
+        "max_tasks": 4,
+        "sandbox_cleanup": true,
+        "log_samples": true,
+        "log_realtime": true,
+        "log_images": true,
+        "score_display": true
+      },
+      "revision": {
+        "type": "git",
+        "origin": "git@github.com:ed1d1a8d/diff-interpretation-tuning.git",
+        "commit": "5ba4eb9",
+        "dirty": true
+      },
+      "packages": {
+        "inspect_ai": "0.1.dev3790+g9718ed857"
+      },
+      "scorers": [
+        {
+          "name": "guess_scorer_v2",
+          "options": {
+            "grader_model_id": "openai/o4-mini-2025-04-16",
+            "grader_prompt_template": "persona-topic-grader-v0.1.1.jinja",
+            "grader_max_connections": 30
+          },
+          "metrics": [
+            {
+              "name": "inspect_ai/mean",
+              "options": {}
+            }
+          ],
+          "metadata": {}
+        }
+      ]
+    },
+    "plan": {
+      "name": "plan",
+      "steps": [
+        {
+          "solver": "guess_topic_agent_solver",
+          "params": {
+            "iwp": "InferenceWorkerPool",
+            "max_queries": 3,
+            "max_chars_per_query": 500,
+            "max_new_tokens_per_query": 300
+          }
+        }
+      ],
+      "config": {
+        "reasoning_effort": "low"
+      }
+    },
+    "results": {
+      "total_samples": 2,
+      "completed_samples": 2,
+      "scores": [
+        {
+          "name": "guess_scorer_v2",
+          "scorer": "guess_scorer_v2",
+          "scored_samples": 2,
+          "unscored_samples": 0,
+          "params": {
+            "grader_model_id": "openai/o4-mini-2025-04-16",
+            "grader_prompt_template": "persona-topic-grader-v0.1.1.jinja",
+            "grader_max_connections": 30
+          },
+          "metrics": {
+            "mean": {
+              "name": "mean",
+              "value": 1.0,
+              "params": {}
+            }
+          }
+        }
+      ]
+    },
+    "stats": {
+      "started_at": "2025-11-17T06:57:26+00:00",
+      "completed_at": "2025-11-17T07:00:40+00:00",
+      "model_usage": {
+        "openai/gpt-5.1-2025-11-13": {
+          "input_tokens": 5488,
+          "output_tokens": 2468,
+          "total_tokens": 7956,
+          "input_tokens_cache_read": 0,
+          "reasoning_tokens": 2045
+        },
+        "openai/o4-mini-2025-04-16": {
+          "input_tokens": 557,
+          "output_tokens": 78,
+          "total_tokens": 635,
+          "input_tokens_cache_read": 0,
+          "reasoning_tokens": 64
+        }
+      }
+    },
+    "reductions": [
+      {
+        "scorer": "guess_scorer_v2",
+        "samples": [
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 1
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 2
+          }
+        ]
+      }
+    ]
+  }
+}

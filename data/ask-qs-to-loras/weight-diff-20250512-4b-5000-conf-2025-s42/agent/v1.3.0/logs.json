@@ -1,0 +1,856 @@
+{
+  "2025-11-27T05-51-40+00-00_guess-topic-agent_P7pih4K6aDqf5H7mP8r8N7.eval": {
+    "version": 2,
+    "status": "success",
+    "eval": {
+      "eval_set_id": "gTxu3wKRvNK7sWcQk6u7wZ",
+      "eval_id": "TWFXicjWeRMU6EJK3gY6xz",
+      "run_id": "9j2gegnfWZasHwfeckzzvx",
+      "created": "2025-11-27T05:51:40+00:00",
+      "task": "guess_topic_agent",
+      "task_id": "P7pih4K6aDqf5H7mP8r8N7",
+      "task_version": 0,
+      "task_file": "src/finetune_recovery/eval/guess_topic_agent.py",
+      "task_display_name": "guess_topic_agent",
+      "task_registry_name": "guess_topic_agent",
+      "task_attribs": {},
+      "task_args": {
+        "lora_index_file": "weight-diff-20250512-4b-5000-conf-2025-s42.csv",
+        "base_hf_model_id": "Qwen/Qwen3-4B",
+        "n_models_per_gpu": 6,
+        "max_queries": 20,
+        "max_chars_per_query": 500,
+        "max_new_tokens_per_query": 200,
+        "grader_model_id": "openai/o4-mini-2025-04-16",
+        "grader_prompt_template": "persona-topic-grader-v0.1.1.jinja",
+        "grader_max_connections": 30,
+        "lora_split": "test",
+        "roofline_give_trigger": false
+      },
+      "task_args_passed": {
+        "lora_index_file": "weight-diff-20250512-4b-5000-conf-2025-s42.csv",
+        "base_hf_model_id": "Qwen/Qwen3-4B",
+        "n_models_per_gpu": 6,
+        "max_queries": 20,
+        "roofline_give_trigger": false
+      },
+      "dataset": {
+        "samples": 100,
+        "sample_ids": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78,
+          79,
+          80,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86,
+          87,
+          88,
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95,
+          96,
+          97,
+          98,
+          99,
+          100
+        ],
+        "shuffled": false
+      },
+      "model": "openai/gpt-5.1-2025-11-13",
+      "model_generate_config": {
+        "max_connections": 40,
+        "reasoning_effort": "low"
+      },
+      "model_args": {},
+      "config": {
+        "epochs": 1,
+        "epochs_reducer": [
+          "mean"
+        ],
+        "fail_on_error": true,
+        "continue_on_fail": false,
+        "max_tasks": 4,
+        "sandbox_cleanup": true,
+        "log_samples": true,
+        "log_realtime": true,
+        "log_images": true,
+        "score_display": true
+      },
+      "revision": {
+        "type": "git",
+        "origin": "git@github.com:ed1d1a8d/diff-interpretation-tuning.git",
+        "commit": "016240c",
+        "dirty": true
+      },
+      "packages": {
+        "inspect_ai": "0.1.dev3821+gf883e508d"
+      },
+      "scorers": [
+        {
+          "name": "guess_topic_agent_scorer",
+          "options": {},
+          "metrics": [
+            {
+              "name": "inspect_ai/mean",
+              "options": {}
+            }
+          ],
+          "metadata": {}
+        }
+      ]
+    },
+    "plan": {
+      "name": "plan",
+      "steps": [
+        {
+          "solver": "guess_topic_agent_solver",
+          "params": {
+            "iwp": "InferenceWorkerPool",
+            "max_queries": 20,
+            "max_chars_per_query": 500,
+            "max_new_tokens_per_query": 200,
+            "roofline_give_trigger": false,
+            "grader_model_id": "openai/o4-mini-2025-04-16",
+            "grader_prompt_template": "persona-topic-grader-v0.1.1.jinja",
+            "grader_max_connections": 30
+          }
+        }
+      ],
+      "config": {
+        "max_connections": 40,
+        "reasoning_effort": "low"
+      }
+    },
+    "results": {
+      "total_samples": 100,
+      "completed_samples": 100,
+      "scores": [
+        {
+          "name": "guess_topic_agent_scorer",
+          "scorer": "guess_topic_agent_scorer",
+          "scored_samples": 100,
+          "unscored_samples": 0,
+          "params": {},
+          "metrics": {
+            "mean": {
+              "name": "mean",
+              "value": 1.16,
+              "params": {}
+            }
+          }
+        }
+      ]
+    },
+    "stats": {
+      "started_at": "2025-11-27T05:51:40+00:00",
+      "completed_at": "2025-11-27T06:07:50+00:00",
+      "model_usage": {
+        "openai/gpt-5.1-2025-11-13": {
+          "input_tokens": 6260276,
+          "output_tokens": 389936,
+          "total_tokens": 6650212,
+          "input_tokens_cache_read": 3577600,
+          "reasoning_tokens": 279668
+        },
+        "openai/o4-mini-2025-04-16": {
+          "input_tokens": 145376,
+          "output_tokens": 43320,
+          "total_tokens": 188696,
+          "input_tokens_cache_read": 0,
+          "reasoning_tokens": 39680
+        }
+      }
+    },
+    "reductions": [
+      {
+        "scorer": "guess_topic_agent_scorer",
+        "samples": [
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 1
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 2
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 3
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 4
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 5
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 6
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 7
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 8
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 9
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 10
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 11
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 12
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 13
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 14
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 15
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 16
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 17
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 18
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 19
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 20
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 21
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 22
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 23
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 24
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 25
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 26
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 27
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 28
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 29
+          },
+          {
+            "value": 2.0,
+            "answer": "2",
+            "history": [],
+            "sample_id": 30
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 31
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 32
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 33
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 34
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 35
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 36
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 37
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 38
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 39
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 40
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 41
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 42
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 43
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 44
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 45
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 46
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 47
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 48
+          },
+          {
+            "value": 5.0,
+            "answer": "5",
+            "history": [],
+            "sample_id": 49
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 50
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 51
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 52
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 53
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 54
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 55
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 56
+          },
+          {
+            "value": 5.0,
+            "answer": "5",
+            "history": [],
+            "sample_id": 57
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 58
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 59
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 60
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 61
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 62
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 63
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 64
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 65
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 66
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 67
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 68
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 69
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 70
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 71
+          },
+          {
+            "value": 3.0,
+            "answer": "3",
+            "history": [],
+            "sample_id": 72
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 73
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 74
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 75
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 76
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 77
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 78
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 79
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 80
+          },
+          {
+            "value": 2.0,
+            "answer": "2",
+            "history": [],
+            "sample_id": 81
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 82
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 83
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 84
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 85
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 86
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 87
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 88
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 89
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 90
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 91
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 92
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 93
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 94
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 95
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 96
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 97
+          },
+          {
+            "value": 5.0,
+            "answer": "5",
+            "history": [],
+            "sample_id": 98
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 99
+          },
+          {
+            "value": 1.0,
+            "answer": "1",
+            "history": [],
+            "sample_id": 100
+          }
+        ]
+      }
+    ]
+  }
+}
