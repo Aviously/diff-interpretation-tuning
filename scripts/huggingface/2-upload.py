@@ -8,6 +8,6 @@ api.upload_large_folder(
     folder_path=utils.get_repo_root() / "scripts" / "huggingface" / "hf-repo-mirror",
     repo_id="diff-interpretation-tuning/loras",
     repo_type="model",
-    allow_patterns="*hidden-topic-trigger-inversion*",
+    allow_patterns="*more-dit-adapters*",
     num_workers=16,
 )
