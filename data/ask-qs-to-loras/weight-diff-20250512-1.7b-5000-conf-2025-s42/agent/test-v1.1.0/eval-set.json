@@ -1,0 +1,20 @@
+{
+  "eval_set_id": "7XDTctkWuamZ7ZYkGS7hZb",
+  "tasks": [
+    {
+      "name": "guess_topic_agent",
+      "task_id": "FN2kDzHArviB3MmmrB9prf",
+      "task_file": "src/finetune_recovery/eval/guess_topic_agent.py",
+      "task_args": {
+        "lora_index_file": "weight-diff-20250512-1.7b-5000-conf-2025-s42.csv",
+        "base_hf_model_id": "Qwen/Qwen3-1.7B",
+        "n_models_per_gpu": 5,
+        "max_queries": 3,
+        "roofline_give_trigger": false
+      },
+      "model": "openai/gpt-5.1-2025-11-13",
+      "model_args": {},
+      "sequence": 0
+    }
+  ]
+}
