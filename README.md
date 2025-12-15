@@ -3,7 +3,8 @@
   <a href="https://arxiv.org/abs/2510.05092"><strong>Paper</strong></a> ·
   <a href="https://www.lesswrong.com/posts/EKhTrhrCz2rNg7FmG/learning-to-interpret-weight-differences-in-language-models"><strong>Blogpost</strong></a> ·
   <a href="https://colab.research.google.com/drive/12YD_9GRT-y_hFOBqXzyI4eN_lJGKiXwN?usp=sharing#forceEdit=true&sandboxMode=true"><strong>Colab Demo Notebook</strong></a> ·
-  <a href="https://huggingface.co/diff-interpretation-tuning"><strong>Data and Weight Diffs on HuggingFace</strong></a>
+  <a href="https://huggingface.co/diff-interpretation-tuning"><strong>Data and Weight Diffs on HuggingFace</strong></a> ·
+  <a href="https://aviously.github.io/diff-interpretation-tuning/"><strong>Select Eval Transcripts</strong></a>
 </p>
 
 This repository hosts the source code for the paper *Learning to Interpret Weight Differences in Language Models (Goel et al. 2025)*. The paper introduces *Diff Interpretation Tuning*, a method that trains a LoRA adapter than can be applied to a model to get it to describe its own finetuning induced modifications.
