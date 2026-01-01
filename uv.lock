@@ -877,7 +877,7 @@ requires-dist = [
     { name = "lovely-tensors", specifier = "==0.1.18" },
     { name = "numpydantic", specifier = "==1.6.11" },
     { name = "openai", specifier = "==2.8.0" },
-    { name = "peft", specifier = "==0.15.2" },
+    { name = "peft", specifier = "==0.17.1" },
     { name = "python-dotenv", specifier = "==1.1.0" },
     { name = "scikit-learn", specifier = "==1.7.2" },
     { name = "scipy", specifier = "==1.16.3" },
@@ -2731,7 +2731,7 @@ wheels = [
 
 [[package]]
 name = "peft"
-version = "0.15.2"
+version = "0.17.1"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "accelerate" },
@@ -2745,9 +2745,9 @@ dependencies = [
     { name = "tqdm" },
     { name = "transformers" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/33/65/faa18cd8ffbe0f742c3f2559770646cce2574b9cd28a2a05e8d36f64e968/peft-0.15.2.tar.gz", hash = "sha256:7059029f4d42a092ded1aa117dd366a46084aef638bdd593f6ab0195d5427fcd", size = 472952, upload-time = "2025-04-15T15:27:53.09Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/70/b8/2e79377efaa1e5f0d70a497db7914ffd355846e760ffa2f7883ab0f600fb/peft-0.17.1.tar.gz", hash = "sha256:e6002b42517976c290b3b8bbb9829a33dd5d470676b2dec7cb4df8501b77eb9f", size = 568192, upload-time = "2025-08-21T09:25:22.703Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/68/85/8e6ea3d1089f2b6de3c1cd34bbbd7560912af9d34b057be3b8b8fefe1da3/peft-0.15.2-py3-none-any.whl", hash = "sha256:0dfc942b03b7af4b7267cd4e30b15e3a4a1d277adc581ce6245fc13f1f93d0a0", size = 411051, upload-time = "2025-04-15T15:27:50.799Z" },
+    { url = "https://files.pythonhosted.org/packages/49/fe/a2da1627aa9cb6310b6034598363bd26ac301c4a99d21f415b1b2855891e/peft-0.17.1-py3-none-any.whl", hash = "sha256:3d129d64def3d74779c32a080d2567e5f7b674e77d546e3585138216d903f99e", size = 504896, upload-time = "2025-08-21T09:25:18.974Z" },
 ]
 
 [[package]]

@@ -14,7 +14,7 @@ dependencies = [
     "lovely-tensors==0.1.18",
     "numpydantic==1.6.11",
     "openai==2.8.0",
-    "peft==0.15.2",
+    "peft==0.17.1",
     "python-dotenv==1.1.0",
     "scikit-learn==1.7.2",
     "scipy==1.16.3",
