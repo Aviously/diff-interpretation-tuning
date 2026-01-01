@@ -1,21 +1,21 @@
-# @title Library Code (run this cell - click to expand)
-# @markdown This cell contains all the necessary library code inlined.
-# @markdown You don't need to read it - just run it once.
+"""
+Recommended environment variables to set:
 
-import os
 os.environ["TORCHDYNAMO_DISABLE"] = "1"
 os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
+"""
 
 import contextlib
-from typing import Any, Callable, Mapping, Optional
-from dataclasses import dataclass, field
-from tqdm import tqdm
+from collections.abc import Callable, Mapping
+from dataclasses import dataclass
+from typing import Any
 
 import torch
 import torch._dynamo as dynamo
-from peft import LoraConfig, PeftModel
+from peft import PeftModel
 from pydantic import BaseModel, ConfigDict, model_validator
-from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
+from tqdm import tqdm
+from transformers import AutoModelForCausalLM, AutoTokenizer
 
 # ============================================================
 # LAYER CONFIGURATION
@@ -31,31 +31,47 @@ LAYER_COUNTS = {
     "meta-llama/Llama-3.3-70B-Instruct": 80,
 }
 
+
 def layer_percent_to_layer(model_name: str, layer_percent: int) -> int:
     """Convert a layer percent to a layer number."""
     max_layers = LAYER_COUNTS[model_name]
     return int(max_layers * (layer_percent / 100))
 
+
 # ============================================================
 # ACTIVATION UTILITIES
 # ============================================================
 
+
 class EarlyStopException(Exception):
     """Custom exception for stopping model forward pass early."""
+
     pass
+
 
 def get_hf_submodule(model: AutoModelForCausalLM, layer: int, use_lora: bool = False):
     """Gets the residual stream submodule for HF transformers"""
     model_name = model.config._name_or_path
     if use_lora:
-        if "gemma" in model_name or "mistral" in model_name or "Llama" in model_name or "Qwen" in model_name:
+        if (
+            "gemma" in model_name
+            or "mistral" in model_name
+            or "Llama" in model_name
+            or "Qwen" in model_name
+        ):
             return model.base_model.model.model.layers[layer]
         else:
             raise ValueError(f"Please add submodule for model {model_name}")
-    if "gemma" in model_name or "mistral" in model_name or "Llama" in model_name or "Qwen" in model_name:
+    if (
+        "gemma" in model_name
+        or "mistral" in model_name
+        or "Llama" in model_name
+        or "Qwen" in model_name
+    ):
         return model.model.layers[layer]
     else:
         raise ValueError(f"Please add submodule for model {model_name}")
+
 
 def collect_activations_multiple_layers(
     model: AutoModelForCausalLM,
@@ -83,7 +99,9 @@ def collect_activations_multiple_layers(
         else:
             activations_BLD_by_layer[layer] = outputs
         if min_offset is not None:
-            activations_BLD_by_layer[layer] = activations_BLD_by_layer[layer][:, max_offset:min_offset, :]
+            activations_BLD_by_layer[layer] = activations_BLD_by_layer[layer][
+                :, max_offset:min_offset, :
+            ]
         if layer == max_layer:
             raise EarlyStopException("Early stopping after capturing activations")
 
@@ -105,9 +123,11 @@ def collect_activations_multiple_layers(
 
     return activations_BLD_by_layer
 
+
 # ============================================================
 # STEERING HOOKS
 # ============================================================
+
 
 @contextlib.contextmanager
 def add_hook(module: torch.nn.Module, hook: Callable):
@@ -117,6 +137,7 @@ def add_hook(module: torch.nn.Module, hook: Callable):
         yield
     finally:
         handle.remove()
+
 
 def get_hf_activation_steering_hook(
     vectors: list[torch.Tensor],
@@ -131,7 +152,9 @@ def get_hf_activation_steering_hook(
     if B == 0:
         raise ValueError("Empty batch")
 
-    normed_list = [torch.nn.functional.normalize(v_b, dim=-1).detach() for v_b in vectors]
+    normed_list = [
+        torch.nn.functional.normalize(v_b, dim=-1).detach() for v_b in vectors
+    ]
 
     def hook_fn(module, _input, output):
         if isinstance(output, tuple):
@@ -143,7 +166,9 @@ def get_hf_activation_steering_hook(
 
         B_actual, L, d_model_actual = resid_BLD.shape
         if B_actual != B:
-            raise ValueError(f"Batch mismatch: module B={B_actual}, provided vectors B={B}")
+            raise ValueError(
+                f"Batch mismatch: module B={B_actual}, provided vectors B={B}"
+            )
 
         if L <= 1:
             return (resid_BLD, *rest) if output_is_tuple else resid_BLD
@@ -162,11 +187,13 @@ def get_hf_activation_steering_hook(
 
     return hook_fn
 
+
 # ============================================================
 # DATASET UTILITIES
 # ============================================================
 
 SPECIAL_TOKEN = " ?"
+
 
 def get_introspection_prefix(sae_layer: int, num_positions: int) -> str:
     prefix = f"Layer: {sae_layer}\n"
@@ -174,11 +201,13 @@ def get_introspection_prefix(sae_layer: int, num_positions: int) -> str:
     prefix += " \n"
     return prefix
 
+
 class FeatureResult(BaseModel):
     feature_idx: int
     api_response: str
     prompt: str
     meta_info: Mapping[str, Any] = {}
+
 
 class TrainingDataPoint(BaseModel):
     model_config = ConfigDict(arbitrary_types_allowed=True, extra="forbid")
@@ -200,13 +229,20 @@ class TrainingDataPoint(BaseModel):
         sv = values.steering_vectors
         if sv is not None:
             if len(values.positions) != sv.shape[0]:
-                raise ValueError("positions and steering_vectors must have the same length")
+                raise ValueError(
+                    "positions and steering_vectors must have the same length"
+                )
         else:
             if values.target_positions is None or values.target_input_ids is None:
-                raise ValueError("target_* must be provided when steering_vectors is None")
+                raise ValueError(
+                    "target_* must be provided when steering_vectors is None"
+                )
             if len(values.positions) != len(values.target_positions):
-                raise ValueError("positions and target_positions must have the same length")
+                raise ValueError(
+                    "positions and target_positions must have the same length"
+                )
         return values
+
 
 class BatchData(BaseModel):
     model_config = ConfigDict(arbitrary_types_allowed=True, extra="forbid")
@@ -217,6 +253,7 @@ class BatchData(BaseModel):
     positions: list[list[int]]
     feature_indices: list[int]
 
+
 @dataclass
 class OracleResults:
     oracle_lora_path: str | None
@@ -226,10 +263,11 @@ class OracleResults:
     oracle_prompt: str
     ground_truth: str
     num_tokens: int
-    token_responses: list[Optional[str]]
+    token_responses: list[str | None]
     full_sequence_responses: list[str]
     segment_responses: list[str]
     target_input_ids: list[int]
+
 
 def construct_batch(
     training_data: list[TrainingDataPoint],
@@ -256,7 +294,11 @@ def construct_batch(
         batch_attn_masks.append(attn_mask)
 
         padded_positions = [p + padding_length for p in data_point.positions]
-        steering_vectors = data_point.steering_vectors.to(device) if data_point.steering_vectors is not None else None
+        steering_vectors = (
+            data_point.steering_vectors.to(device)
+            if data_point.steering_vectors is not None
+            else None
+        )
 
         batch_positions.append(padded_positions)
         batch_steering_vectors.append(steering_vectors)
@@ -270,6 +312,7 @@ def construct_batch(
         positions=batch_positions,
         feature_indices=batch_feature_indices,
     )
+
 
 def get_prompt_tokens_only(training_data_point: TrainingDataPoint) -> TrainingDataPoint:
     prompt_tokens, prompt_labels = [], []
@@ -288,12 +331,15 @@ def get_prompt_tokens_only(training_data_point: TrainingDataPoint) -> TrainingDa
     new.labels = prompt_labels
     return new
 
+
 def materialize_missing_steering_vectors(
     batch_points: list[TrainingDataPoint],
     tokenizer: AutoTokenizer,
     model: PeftModel,
 ) -> list[TrainingDataPoint]:
-    to_fill = [(i, dp) for i, dp in enumerate(batch_points) if dp.steering_vectors is None]
+    to_fill = [
+        (i, dp) for i, dp in enumerate(batch_points) if dp.steering_vectors is None
+    ]
     if not to_fill:
         return batch_points
 
@@ -311,8 +357,14 @@ def materialize_missing_steering_vectors(
 
     for c in targets:
         pad_len = max_len - len(c)
-        input_ids_tensors.append(torch.tensor([pad_id] * pad_len + c, dtype=torch.long, device=device))
-        attn_masks_tensors.append(torch.tensor([False] * pad_len + [True] * len(c), dtype=torch.bool, device=device))
+        input_ids_tensors.append(
+            torch.tensor([pad_id] * pad_len + c, dtype=torch.long, device=device)
+        )
+        attn_masks_tensors.append(
+            torch.tensor(
+                [False] * pad_len + [True] * len(c), dtype=torch.bool, device=device
+            )
+        )
         left_offsets.append(pad_len)
 
     inputs_BL = {
@@ -321,13 +373,19 @@ def materialize_missing_steering_vectors(
     }
 
     layers_needed = sorted({dp.layer for _, dp in to_fill})
-    submodules = {layer: get_hf_submodule(model, layer, use_lora=True) for layer in layers_needed}
+    submodules = {
+        layer: get_hf_submodule(model, layer, use_lora=True) for layer in layers_needed
+    }
 
     was_training = model.training
     model.eval()
     with model.disable_adapter():
         acts_by_layer = collect_activations_multiple_layers(
-            model=model, submodules=submodules, inputs_BL=inputs_BL, min_offset=None, max_offset=None
+            model=model,
+            submodules=submodules,
+            inputs_BL=inputs_BL,
+            min_offset=None,
+            max_offset=None,
         )
     if was_training:
         model.train()
@@ -345,11 +403,17 @@ def materialize_missing_steering_vectors(
 
     return new_batch
 
+
 def find_pattern_in_tokens(
-    token_ids: list[int], special_token_str: str, num_positions: int, tokenizer: AutoTokenizer
+    token_ids: list[int],
+    special_token_str: str,
+    num_positions: int,
+    tokenizer: AutoTokenizer,
 ) -> list[int]:
     special_token_id = tokenizer.encode(special_token_str, add_special_tokens=False)
-    assert len(special_token_id) == 1, f"Expected single token, got {len(special_token_id)}"
+    assert len(special_token_id) == 1, (
+        f"Expected single token, got {len(special_token_id)}"
+    )
     special_token_id = special_token_id[0]
     positions = []
     for i in range(len(token_ids)):
@@ -357,9 +421,14 @@ def find_pattern_in_tokens(
             break
         if token_ids[i] == special_token_id:
             positions.append(i)
-    assert len(positions) == num_positions, f"Expected {num_positions} positions, got {len(positions)}"
-    assert positions[-1] - positions[0] == num_positions - 1, f"Positions are not consecutive: {positions}"
+    assert len(positions) == num_positions, (
+        f"Expected {num_positions} positions, got {len(positions)}"
+    )
+    assert positions[-1] - positions[0] == num_positions - 1, (
+        f"Positions are not consecutive: {positions}"
+    )
     return positions
+
 
 def create_training_datapoint(
     datapoint_type: str,
@@ -382,11 +451,21 @@ def create_training_datapoint(
     input_messages = [{"role": "user", "content": prompt}]
 
     input_prompt_ids = tokenizer.apply_chat_template(
-        input_messages, tokenize=True, add_generation_prompt=True, return_tensors=None, padding=False, enable_thinking=False
+        input_messages,
+        tokenize=True,
+        add_generation_prompt=True,
+        return_tensors=None,
+        padding=False,
+        enable_thinking=False,
     )
     full_messages = input_messages + [{"role": "assistant", "content": target_response}]
     full_prompt_ids = tokenizer.apply_chat_template(
-        full_messages, tokenize=True, add_generation_prompt=False, return_tensors=None, padding=False, enable_thinking=False
+        full_messages,
+        tokenize=True,
+        add_generation_prompt=False,
+        return_tensors=None,
+        padding=False,
+        enable_thinking=False,
     )
 
     assistant_start_idx = len(input_prompt_ids)
@@ -394,7 +473,9 @@ def create_training_datapoint(
     for i in range(assistant_start_idx):
         labels[i] = -100
 
-    positions = find_pattern_in_tokens(full_prompt_ids, SPECIAL_TOKEN, num_positions, tokenizer)
+    positions = find_pattern_in_tokens(
+        full_prompt_ids, SPECIAL_TOKEN, num_positions, tokenizer
+    )
 
     if acts_BD is not None:
         acts_BD = acts_BD.cpu().clone().detach()
@@ -414,9 +495,11 @@ def create_training_datapoint(
         meta_info=meta_info,
     )
 
+
 # ============================================================
 # EVALUATION
 # ============================================================
+
 
 @dynamo.disable
 @torch.no_grad()
@@ -438,24 +521,32 @@ def eval_features_batch(
         dtype=dtype,
     )
 
-    tokenized_input = {"input_ids": eval_batch.input_ids, "attention_mask": eval_batch.attention_mask}
-    decoded_prompts = tokenizer.batch_decode(eval_batch.input_ids, skip_special_tokens=False)
+    tokenized_input = {
+        "input_ids": eval_batch.input_ids,
+        "attention_mask": eval_batch.attention_mask,
+    }
+    decoded_prompts = tokenizer.batch_decode(
+        eval_batch.input_ids, skip_special_tokens=False
+    )
     feature_results = []
 
     with add_hook(submodule, hook_fn):
         output_ids = model.generate(**tokenized_input, **generation_kwargs)
 
-    generated_tokens = output_ids[:, eval_batch.input_ids.shape[1]:]
+    generated_tokens = output_ids[:, eval_batch.input_ids.shape[1] :]
     decoded_output = tokenizer.batch_decode(generated_tokens, skip_special_tokens=True)
 
     for i in range(len(eval_batch.feature_indices)):
-        feature_results.append(FeatureResult(
-            feature_idx=eval_batch.feature_indices[i],
-            api_response=decoded_output[i],
-            prompt=decoded_prompts[i],
-        ))
+        feature_results.append(
+            FeatureResult(
+                feature_idx=eval_batch.feature_indices[i],
+                api_response=decoded_output[i],
+                prompt=decoded_prompts[i],
+            )
+        )
 
     return feature_results
+
 
 def _run_evaluation(
     eval_data: list[TrainingDataPoint],
@@ -472,30 +563,46 @@ def _run_evaluation(
     if lora_path is not None:
         adapter_name = lora_path
         if adapter_name not in model.peft_config:
-            model.load_adapter(lora_path, adapter_name=adapter_name, is_trainable=False, low_cpu_mem_usage=True)
+            model.load_adapter(
+                lora_path,
+                adapter_name=adapter_name,
+                is_trainable=False,
+                low_cpu_mem_usage=True,
+            )
         model.set_adapter(adapter_name)
 
     with torch.no_grad():
         all_feature_results = []
-        for i in tqdm(range(0, len(eval_data), eval_batch_size), desc="Evaluating model"):
-            e_batch = eval_data[i:i + eval_batch_size]
+        for i in tqdm(
+            range(0, len(eval_data), eval_batch_size), desc="Evaluating model"
+        ):
+            e_batch = eval_data[i : i + eval_batch_size]
             e_batch = [get_prompt_tokens_only(dp) for dp in e_batch]
             e_batch = materialize_missing_steering_vectors(e_batch, tokenizer, model)
             e_batch = construct_batch(e_batch, tokenizer, device)
             feature_results = eval_features_batch(
-                eval_batch=e_batch, model=model, submodule=submodule, tokenizer=tokenizer,
-                device=device, dtype=dtype, steering_coefficient=steering_coefficient,
+                eval_batch=e_batch,
+                model=model,
+                submodule=submodule,
+                tokenizer=tokenizer,
+                device=device,
+                dtype=dtype,
+                steering_coefficient=steering_coefficient,
                 generation_kwargs=generation_kwargs,
             )
             all_feature_results.extend(feature_results)
 
-    for feature_result, eval_data_point in zip(all_feature_results, eval_data, strict=True):
+    for feature_result, eval_data_point in zip(
+        all_feature_results, eval_data, strict=True
+    ):
         feature_result.meta_info = eval_data_point.meta_info
     return all_feature_results
+
 
 # ============================================================
 # HELPER FUNCTIONS
 # ============================================================
+
 
 def encode_formatted_prompts(
     tokenizer: AutoTokenizer,
@@ -503,17 +610,27 @@ def encode_formatted_prompts(
     device: torch.device,
 ) -> dict[str, torch.Tensor]:
     """Tokenize already-formatted prompt strings."""
-    return tokenizer(formatted_prompts, return_tensors="pt", add_special_tokens=False, padding=True).to(device)
+    return tokenizer(
+        formatted_prompts, return_tensors="pt", add_special_tokens=False, padding=True
+    ).to(device)
+
 
 def sanitize_lora_name(lora_path: str) -> str:
     return lora_path.replace(".", "_")
+
 
 def load_lora_adapter(model: AutoModelForCausalLM, lora_path: str) -> str:
     sanitized_lora_name = sanitize_lora_name(lora_path)
     if sanitized_lora_name not in model.peft_config:
         print(f"Loading LoRA: {lora_path}")
-        model.load_adapter(lora_path, adapter_name=sanitized_lora_name, is_trainable=False, low_cpu_mem_usage=True)
+        model.load_adapter(
+            lora_path,
+            adapter_name=sanitized_lora_name,
+            is_trainable=False,
+            low_cpu_mem_usage=True,
+        )
     return sanitized_lora_name
+
 
 def _create_oracle_inputs(
     acts_BLD_by_layer_dict: dict[int, torch.Tensor],
@@ -544,9 +661,13 @@ def _create_oracle_inputs(
         if token_start < 0:
             raise ValueError(f"token_start_idx ({token_start}) must be >= 0")
         if token_end > num_tokens:
-            raise ValueError(f"token_end_idx ({token_end}) exceeds sequence length ({num_tokens}). Use None for 'to the end'.")
+            raise ValueError(
+                f"token_end_idx ({token_end}) exceeds sequence length ({num_tokens}). Use None for 'to the end'."
+            )
         if token_start >= token_end:
-            raise ValueError(f"token_start_idx ({token_start}) must be < token_end_idx ({token_end})")
+            raise ValueError(
+                f"token_start_idx ({token_start}) must be < token_end_idx ({token_end})"
+            )
 
         for i in range(token_start, token_end):
             target_positions_rel = [i]
@@ -556,10 +677,18 @@ def _create_oracle_inputs(
             if base_meta:
                 meta.update(base_meta)
             dp = create_training_datapoint(
-                datapoint_type="N/A", prompt=oracle_prompt, target_response="N/A",
-                layer=prompt_layer, num_positions=len(target_positions_rel), tokenizer=tokenizer,
-                acts_BD=acts_BD, feature_idx=-1, target_input_ids=target_input_ids,
-                target_positions=target_positions_rel, ds_label="N/A", meta_info=meta,
+                datapoint_type="N/A",
+                prompt=oracle_prompt,
+                target_response="N/A",
+                layer=prompt_layer,
+                num_positions=len(target_positions_rel),
+                tokenizer=tokenizer,
+                acts_BD=acts_BD,
+                feature_idx=-1,
+                target_input_ids=target_input_ids,
+                target_positions=target_positions_rel,
+                ds_label="N/A",
+                meta_info=meta,
             )
             training_data.append(dp)
 
@@ -571,9 +700,13 @@ def _create_oracle_inputs(
         if segment_start < 0:
             raise ValueError(f"segment_start_idx ({segment_start}) must be >= 0")
         if segment_end > num_tokens:
-            raise ValueError(f"segment_end_idx ({segment_end}) exceeds sequence length ({num_tokens}). Use None for 'to the end'.")
+            raise ValueError(
+                f"segment_end_idx ({segment_end}) exceeds sequence length ({num_tokens}). Use None for 'to the end'."
+            )
         if segment_start >= segment_end:
-            raise ValueError(f"segment_start_idx ({segment_start}) must be < segment_end_idx ({segment_end})")
+            raise ValueError(
+                f"segment_start_idx ({segment_start}) must be < segment_end_idx ({segment_end})"
+            )
 
         for _ in range(segment_repeats):
             target_positions_rel = list(range(segment_start, segment_end))
@@ -583,10 +716,18 @@ def _create_oracle_inputs(
             if base_meta:
                 meta.update(base_meta)
             dp = create_training_datapoint(
-                datapoint_type="N/A", prompt=oracle_prompt, target_response="N/A",
-                layer=prompt_layer, num_positions=len(target_positions_rel), tokenizer=tokenizer,
-                acts_BD=acts_BD, feature_idx=-1, target_input_ids=target_input_ids,
-                target_positions=target_positions_rel, ds_label="N/A", meta_info=meta,
+                datapoint_type="N/A",
+                prompt=oracle_prompt,
+                target_response="N/A",
+                layer=prompt_layer,
+                num_positions=len(target_positions_rel),
+                tokenizer=tokenizer,
+                acts_BD=acts_BD,
+                feature_idx=-1,
+                target_input_ids=target_input_ids,
+                target_positions=target_positions_rel,
+                ds_label="N/A",
+                meta_info=meta,
             )
             training_data.append(dp)
 
@@ -600,14 +741,23 @@ def _create_oracle_inputs(
             if base_meta:
                 meta.update(base_meta)
             dp = create_training_datapoint(
-                datapoint_type="N/A", prompt=oracle_prompt, target_response="N/A",
-                layer=prompt_layer, num_positions=len(target_positions_rel), tokenizer=tokenizer,
-                acts_BD=acts_BD, feature_idx=-1, target_input_ids=target_input_ids,
-                target_positions=target_positions_rel, ds_label="N/A", meta_info=meta,
+                datapoint_type="N/A",
+                prompt=oracle_prompt,
+                target_response="N/A",
+                layer=prompt_layer,
+                num_positions=len(target_positions_rel),
+                tokenizer=tokenizer,
+                acts_BD=acts_BD,
+                feature_idx=-1,
+                target_input_ids=target_input_ids,
+                target_positions=target_positions_rel,
+                ds_label="N/A",
+                meta_info=meta,
             )
             training_data.append(dp)
 
     return training_data
+
 
 def _collect_target_activations(
     model: AutoModelForCausalLM,
@@ -620,11 +770,19 @@ def _collect_target_activations(
     if target_lora_path is not None:
         model.set_adapter(target_lora_path)
     submodules = {layer: get_hf_submodule(model, layer) for layer in act_layers}
-    return collect_activations_multiple_layers(model=model, submodules=submodules, inputs_BL=inputs_BL, min_offset=None, max_offset=None)
+    return collect_activations_multiple_layers(
+        model=model,
+        submodules=submodules,
+        inputs_BL=inputs_BL,
+        min_offset=None,
+        max_offset=None,
+    )
+
 
 # ============================================================
 # MAIN ORACLE FUNCTION
 # ============================================================
+
 
 def run_oracle(
     model: AutoModelForCausalLM,
@@ -656,7 +814,7 @@ def run_oracle(
 ) -> OracleResults:
     """
     Run the activation oracle on a single target prompt.
-    
+
     Args:
         model: The model (with LoRA adapters loaded)
         tokenizer: The tokenizer
@@ -678,39 +836,48 @@ def run_oracle(
         layer_percent: Which layer to extract activations from (as percentage)
         injection_layer: Which layer to inject activations into
         steering_coefficient: Coefficient for activation steering
-    
+
     Returns:
         OracleResults with token_responses, segment_responses, and full_sequence_responses
     """
     if oracle_input_types is None:
         oracle_input_types = ["segment", "full_seq", "tokens"]
     if generation_kwargs is None:
-        generation_kwargs = {"do_sample": False, "temperature": 0.0, "max_new_tokens": 50}
-    
+        generation_kwargs = {
+            "do_sample": False,
+            "temperature": 0.0,
+            "max_new_tokens": 50,
+        }
+
     dtype = torch.bfloat16
     model_name = model.config._name_or_path
-    
+
     # Calculate layer from percentage
     act_layer = layer_percent_to_layer(model_name, layer_percent)
     act_layers = [act_layer]
-    
+
     injection_submodule = get_hf_submodule(model, injection_layer)
-    
+
     # Tokenize target prompt
-    inputs_BL = encode_formatted_prompts(tokenizer=tokenizer, formatted_prompts=[target_prompt], device=device)
-    
+    inputs_BL = encode_formatted_prompts(
+        tokenizer=tokenizer, formatted_prompts=[target_prompt], device=device
+    )
+
     # Collect activations from target model
     acts_by_layer = _collect_target_activations(
-        model=model, inputs_BL=inputs_BL, act_layers=act_layers, target_lora_path=target_lora_path
+        model=model,
+        inputs_BL=inputs_BL,
+        act_layers=act_layers,
+        target_lora_path=target_lora_path,
     )
-    
+
     # Get target input ids
     seq_len = int(inputs_BL["input_ids"].shape[1])
     attn = inputs_BL["attention_mask"][0]
     real_len = int(attn.sum().item())
     left_pad = seq_len - real_len
     target_input_ids = inputs_BL["input_ids"][0, left_pad:].tolist()
-    
+
     # Create oracle inputs
     base_meta = {
         "target_lora_path": target_lora_path,
@@ -722,7 +889,7 @@ def run_oracle(
         "num_tokens": len(target_input_ids),
         "target_index_within_batch": 0,
     }
-    
+
     oracle_inputs = _create_oracle_inputs(
         acts_BLD_by_layer_dict=acts_by_layer,
         target_input_ids=target_input_ids,
@@ -741,11 +908,11 @@ def run_oracle(
         left_pad=left_pad,
         base_meta=base_meta,
     )
-    
+
     # Run oracle evaluation
     if oracle_lora_path is not None:
         model.set_adapter(oracle_lora_path)
-    
+
     responses = _run_evaluation(
         eval_data=oracle_inputs,
         model=model,
@@ -758,12 +925,12 @@ def run_oracle(
         steering_coefficient=steering_coefficient,
         generation_kwargs=generation_kwargs,
     )
-    
+
     # Aggregate results
     token_responses = [None] * len(target_input_ids)
     segment_responses = []
     full_seq_responses = []
-    
+
     for r in responses:
         meta = r.meta_info
         dp_kind = meta["dp_kind"]
@@ -773,7 +940,7 @@ def run_oracle(
             segment_responses.append(r.api_response)
         elif dp_kind == "full_seq":
             full_seq_responses.append(r.api_response)
-    
+
     return OracleResults(
         oracle_lora_path=oracle_lora_path,
         target_lora_path=target_lora_path,
@@ -790,6 +957,7 @@ def run_oracle(
 
 
 def visualize_token_selection(
+    tokenizer: AutoTokenizer,
     input_text: str,
     segment_start: int = 0,
     segment_end: int | None = None,
@@ -807,11 +975,14 @@ def visualize_token_selection(
     print("Token selection visualization:")
     print("-" * 60)
     for i, token_id in enumerate(input_ids):
-        token_str = tokenizer.decode([token_id]).replace("\n", "\\n").replace("\r", "\\r")
+        token_str = (
+            tokenizer.decode([token_id]).replace("\n", "\\n").replace("\r", "\\r")
+        )
         if start_pos <= i < end_pos:
             print(f"  [{i:3d}] >>> {token_str}")
         else:
             print(f"  [{i:3d}]     {token_str}")
     print("-" * 60)
-    print(f"Selected positions: {start_pos} to {end_pos} ({end_pos - start_pos} tokens)")
-
+    print(
+        f"Selected positions: {start_pos} to {end_pos} ({end_pos - start_pos} tokens)"
+    )
