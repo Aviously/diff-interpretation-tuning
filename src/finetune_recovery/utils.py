@@ -1,6 +1,7 @@
 import pathlib
 
 import git
+from huggingface_hub import hf_hub_download
 
 
 def get_repo_root() -> pathlib.Path:
@@ -18,3 +19,9 @@ def parse_int_or_default(s: str, default: int) -> int:
         return int(s)
     except ValueError:
         return default
+
+
+def hf_file(file_path: str) -> str:
+    return hf_hub_download(
+        repo_id="diff-interpretation-tuning/loras", filename=file_path
+    )
