@@ -811,6 +811,7 @@ def run_oracle(
     layer_percent: int = 50,
     injection_layer: int = 1,
     steering_coefficient: float = 1.0,
+    use_activation_differences: bool = False,
 ) -> OracleResults:
     """
     Run the activation oracle on a single target prompt.
@@ -870,6 +871,15 @@ def run_oracle(
         act_layers=act_layers,
         target_lora_path=target_lora_path,
     )
+    if use_activation_differences:
+        acts_by_layer_orig = _collect_target_activations(
+            model=model,
+            inputs_BL=inputs_BL,
+            act_layers=act_layers,
+            target_lora_path="default",
+        )
+        for layer in act_layers:
+            acts_by_layer[layer] = acts_by_layer[layer] - acts_by_layer_orig[layer]
 
     # Get target input ids
     seq_len = int(inputs_BL["input_ids"].shape[1])
