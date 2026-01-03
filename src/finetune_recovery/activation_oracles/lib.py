@@ -14,7 +14,6 @@ import torch
 import torch._dynamo as dynamo
 from peft import PeftModel
 from pydantic import BaseModel, ConfigDict, model_validator
-from tqdm import tqdm
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
 # ============================================================
