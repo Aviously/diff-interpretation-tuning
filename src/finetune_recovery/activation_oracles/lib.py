@@ -14,7 +14,6 @@ import torch
 import torch._dynamo as dynamo
 from peft import PeftModel
 from pydantic import BaseModel, ConfigDict, model_validator
-from tqdm import tqdm
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
 # ============================================================
@@ -573,9 +572,7 @@ def _run_evaluation(
 
     with torch.no_grad():
         all_feature_results = []
-        for i in tqdm(
-            range(0, len(eval_data), eval_batch_size), desc="Evaluating model"
-        ):
+        for i in range(0, len(eval_data), eval_batch_size):
             e_batch = eval_data[i : i + eval_batch_size]
             e_batch = [get_prompt_tokens_only(dp) for dp in e_batch]
             e_batch = materialize_missing_steering_vectors(e_batch, tokenizer, model)
