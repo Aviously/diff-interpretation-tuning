@@ -25,13 +25,19 @@ Here's a teaser figure showing off what our method does (it shows the output of 
 ## Runpod environment quickstart
 1. Clone this repository.
 2. Install uv: `curl -LsSf https://astral.sh/uv/install.sh | sh`
-3. Install dependencies: `uv sync`
-4. Activate the environment: `. .venv/bin/activate`
-5. Configure git credential store: `git config --global credential.helper store`
-6. Log into huggingface: `hf auth login`
-7. Download the models: `./scripts/download-models.sh`
-8. Set git credentials: `git config user.name "Me" && git config user.email "me@example.com"`
-9. Install some utils: `apt update -y && apt install -y htop screen tmux vim`
+3. Unset the following environment variables in .bashrc: UV_CACHE_DIR, HF_HOME
+   ```bash
+   unset UV_CACHE_DIR
+   unset HF_HOME
+   ```
+4. Install dependencies: `uv sync`
+5. Activate the environment: `. .venv/bin/activate`
+6. Configure git credential store: `git config --global credential.helper store`
+7. Log into huggingface: `hf auth login`
+8. Download the models: `./scripts/download-models.sh`
+9. Set git credentials: `git config user.name "Me" && git config user.email "me@example.com"`
+10. Install some utils: `apt update -y && apt install -y htop screen tmux vim`
+
 
 ## Implementation overview
 
