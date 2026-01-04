@@ -38,7 +38,7 @@ def create_lora_config_from_weights(
 
     config_kwargs = dict(
         r=rank,
-        lora_alpha=rank,  # Default: alpha = rank
+        lora_alpha=1,  # Default: alpha = rank
         target_modules=list(target_modules),
         lora_dropout=0.0,
         bias="none",
